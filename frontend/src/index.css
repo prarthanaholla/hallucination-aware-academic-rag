@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #f8f7f4;
+  color: #1a1917;
+  min-height: 100vh;
+}
+
+.font-mono { font-family: 'JetBrains Mono', monospace; }
+
+/* scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d1cfc8; border-radius: 99px; }
+
+/* sentence highlight transitions */
+.sentence-span { transition: background 0.15s, opacity 0.15s; border-radius: 3px; padding: 1px 3px; cursor: pointer; }
+.sentence-span:hover { filter: brightness(0.92); }

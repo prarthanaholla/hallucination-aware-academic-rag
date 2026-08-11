@@ -1,0 +1,1795 @@
+[
+  {
+    "chunk_id": "faculty_dr_sandesh_bj_profile",
+    "text": "Dr.Sandesh BJ is a Chairperson in the CSE department at PES University. Their email address is sandesh_bj@pes.edu. Contact: sandesh_bj@pes.edu. Research areas: Computer Vision, Deep Learning, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Sandesh BJ",
+      "designation": "Chairperson",
+      "email": "sandesh_bj@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_sandesh_bj_expertise",
+    "text": "Dr.Sandesh BJ (Chairperson) at PES University CSE department specialises in: Computer Vision, Deep Learning, Data Analytics and Big data Analytics. Email: sandesh_bj@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Sandesh BJ",
+      "designation": "Chairperson",
+      "email": "sandesh_bj@pes.edu",
+      "domains": [
+        "Computer Vision",
+        "Deep Learning",
+        "Data Analytics and Big data Analytics"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__arti_arya_profile",
+    "text": "Dr. Arti Arya is a Professor/Chairperso n- AI&ML in the CSE department at PES University. Their email address is artiarya@pes.edu. Contact: artiarya@pes.edu. Research areas: Artificial Intelligence/Gen AI/Explainable AI, Natural Language Processing, Computer Vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Arti Arya",
+      "designation": "Professor/Chairperso n- AI&ML",
+      "email": "artiarya@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__arti_arya_expertise",
+    "text": "Dr. Arti Arya (Professor/Chairperso n- AI&ML) at PES University CSE department specialises in: Artificial Intelligence/Gen AI/Explainable AI, Natural Language Processing, Computer Vision, GenAI, Agentic AI, LLM,ML/DL,BDA,Parallel computing,Algorithms(Optimization Techniques), GNNs, Knowledge\nGraphs and Ontologies. Email: artiarya@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Arti Arya",
+      "designation": "Professor/Chairperso n- AI&ML",
+      "email": "artiarya@pes.edu",
+      "domains": [
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Natural Language Processing",
+        "Computer Vision",
+        "GenAI, Agentic AI, LLM,ML/DL,BDA,Parallel computing,Algorithms(Optimization Techniques), GNNs, Knowledge\nGraphs and Ontologies"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_pooja_agarwal_profile",
+    "text": "Dr Pooja Agarwal is a Professor in the CSE department at PES University. Their email address is poojaagarwal@pes.edu. Contact: poojaagarwal@pes.edu. Research areas: Artificial Intelligence/Gen AI/Explainable AI/ Machine\nLearning/ Deep Learning/ , RL, XAI, Data Analytics/\nNatural Language Processing, Healthcare , EdTech,, Computer Vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr Pooja Agarwal",
+      "designation": "Professor",
+      "email": "poojaagarwal@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_pooja_agarwal_expertise",
+    "text": "Dr Pooja Agarwal (Professor) at PES University CSE department specialises in: Artificial Intelligence/Gen AI/Explainable AI/ Machine\nLearning/ Deep Learning/ , RL, XAI, Data Analytics/\nNatural Language Processing, Healthcare , EdTech,, Computer Vision, ,Graph Neural Networks\nGenAI, LLM, ML, DL, Optimization Techniques, Image/Video Processing, Knowledge Graphs and Ontologies, Graph\nNeural Networks. Email: poojaagarwal@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr Pooja Agarwal",
+      "designation": "Professor",
+      "email": "poojaagarwal@pes.edu",
+      "domains": [
+        "Artificial Intelligence/Gen AI/Explainable AI/ Machine\nLearning/ Deep Learning/ , RL, XAI, Data Analytics/\nNatural Language Processing",
+        "Healthcare , EdTech,",
+        "Computer Vision",
+        ",Graph Neural Networks\nGenAI, LLM, ML, DL, Optimization Techniques, Image/Video Processing, Knowledge Graphs and Ontologies, Graph\nNeural Networks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_m_farida_begam_profile",
+    "text": "Dr.M.Farida Begam is a Professor in the CSE department at PES University. Their email address is farida.begam@pes.edu. Contact: farida.begam@pes.edu. Research areas: Machine Learning, Natural Language Processing, Artificial Intelligence/Gen AI/Explainable AI.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.M.Farida Begam",
+      "designation": "Professor",
+      "email": "farida.begam@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_m_farida_begam_expertise",
+    "text": "Dr.M.Farida Begam (Professor) at PES University CSE department specialises in: Machine Learning, Natural Language Processing, Artificial Intelligence/Gen AI/Explainable AI, Knowledge graphs , Ontologies, Deep Learning, Computer vision, System and Architecture/Parallel Computing/\nCompiler Optimization. Email: farida.begam@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.M.Farida Begam",
+      "designation": "Professor",
+      "email": "farida.begam@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Knowledge graphs , Ontologies, Deep Learning, Computer vision, System and Architecture/Parallel Computing/\nCompiler Optimization"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_sharavana_profile",
+    "text": "Dr.Sharavana is a Professor in the CSE department at PES University. Their email address is sharavana.kk@pes.edu. Contact: sharavana.kk@pes.edu. Research areas: Cloud Computing, IoT and Wireless Sensor Networks, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Sharavana",
+      "designation": "Professor",
+      "email": "sharavana.kk@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_sharavana_expertise",
+    "text": "Dr.Sharavana (Professor) at PES University CSE department specialises in: Cloud Computing, IoT and Wireless Sensor Networks, Data Analytics and Big data Analytics. Email: sharavana.kk@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Sharavana",
+      "designation": "Professor",
+      "email": "sharavana.kk@pes.edu",
+      "domains": [
+        "Cloud Computing",
+        "IoT and Wireless Sensor Networks",
+        "Data Analytics and Big data Analytics"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_mannar_mannan_profile",
+    "text": "Dr.Mannar Mannan is a Professor in the CSE department at PES University. Their email address is mannar.mj@pes.edu. Contact: mannar.mj@pes.edu. Research areas: Augmented and Virtual Reality, Web Intelligence, IoT and Wireless Sensor Networks.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Mannar Mannan",
+      "designation": "Professor",
+      "email": "mannar.mj@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_mannar_mannan_expertise",
+    "text": "Dr.Mannar Mannan (Professor) at PES University CSE department specialises in: Augmented and Virtual Reality, Web Intelligence, IoT and Wireless Sensor Networks. Email: mannar.mj@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Mannar Mannan",
+      "designation": "Professor",
+      "email": "mannar.mj@pes.edu",
+      "domains": [
+        "Augmented and Virtual Reality",
+        "Web Intelligence",
+        "IoT and Wireless Sensor Networks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__gokul_kannan_sadasivam_profile",
+    "text": "Dr. Gokul Kannan Sadasivam is a Professor in the CSE department at PES University. Their email address is gokul@pes.edu. Contact: gokul@pes.edu. Research areas: Cyber Security, Artificial Intelligence/Gen AI/Explainable AI, Mobile and Autonomous Robotics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Gokul Kannan Sadasivam",
+      "designation": "Professor",
+      "email": "gokul@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__gokul_kannan_sadasivam_expertise",
+    "text": "Dr. Gokul Kannan Sadasivam (Professor) at PES University CSE department specialises in: Cyber Security, Artificial Intelligence/Gen AI/Explainable AI, Mobile and Autonomous Robotics, Internet of Things, Data Analytics, Deep Learning, Reinforcement Learning. Email: gokul@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Gokul Kannan Sadasivam",
+      "designation": "Professor",
+      "email": "gokul@pes.edu",
+      "domains": [
+        "Cyber Security",
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Mobile and Autonomous Robotics",
+        "Internet of Things, Data Analytics, Deep Learning, Reinforcement Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_manju_profile",
+    "text": "Dr.Manju is a Professor in the CSE department at PES University. Their email address is manju.nunia@pes.edu. Contact: manju.nunia@pes.edu. Research areas: IoT and Wireless Sensor Networks,ML, Distributed Computing, Cloud computing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Manju",
+      "designation": "Professor",
+      "email": "manju.nunia@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_manju_expertise",
+    "text": "Dr.Manju (Professor) at PES University CSE department specialises in: IoT and Wireless Sensor Networks,ML, Distributed Computing, Cloud computing. Email: manju.nunia@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Manju",
+      "designation": "Professor",
+      "email": "manju.nunia@pes.edu",
+      "domains": [
+        "IoT and Wireless Sensor Networks,ML",
+        "Distributed Computing",
+        "Cloud computing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__vishnu_s_tiwari_profile",
+    "text": "Dr. Vishnu S Tiwari is a Professor in the CSE department at PES University. Their email address is vishnustiwari@pes.edu. Contact: vishnustiwari@pes.edu. Research areas: Financial Engineering, Portfolio\nOptimization/Construction, High Frequency Trading, Spatial Databases, Spatial Data Analytics\n& Machine Learning, Recommendation\nSystems, Software Architecture, Software System Design,\nLarge Scale Software Development, Scalable\nSystems.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Vishnu S Tiwari",
+      "designation": "Professor",
+      "email": "vishnustiwari@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__vishnu_s_tiwari_expertise",
+    "text": "Dr. Vishnu S Tiwari (Professor) at PES University CSE department specialises in: Financial Engineering, Portfolio\nOptimization/Construction, High Frequency Trading, Spatial Databases, Spatial Data Analytics\n& Machine Learning, Recommendation\nSystems, Software Architecture, Software System Design,\nLarge Scale Software Development, Scalable\nSystems, Geographicl Information Systems, Automatation, Formal Verification, Language Processing. Email: vishnustiwari@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Vishnu S Tiwari",
+      "designation": "Professor",
+      "email": "vishnustiwari@pes.edu",
+      "domains": [
+        "Financial Engineering, Portfolio\nOptimization/Construction, High Frequency Trading",
+        "Spatial Databases, Spatial Data Analytics\n& Machine Learning, Recommendation\nSystems",
+        "Software Architecture, Software System Design,\nLarge Scale Software Development, Scalable\nSystems",
+        "Geographicl Information Systems, Automatation, Formal Verification, Language Processing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_sudeepa_roy_profile",
+    "text": "Dr.Sudeepa Roy is a Associate Professor in the CSE department at PES University. Their email address is sudeepar@pes.edu. Contact: sudeepar@pes.edu. Research areas: AI in Heathcare, Machine Learning, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Sudeepa Roy",
+      "designation": "Associate Professor",
+      "email": "sudeepar@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_sudeepa_roy_expertise",
+    "text": "Dr.Sudeepa Roy (Associate Professor) at PES University CSE department specialises in: AI in Heathcare, Machine Learning, Data Analytics and Big data Analytics. Email: sudeepar@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Sudeepa Roy",
+      "designation": "Associate Professor",
+      "email": "sudeepar@pes.edu",
+      "domains": [
+        "AI in Heathcare",
+        "Machine Learning",
+        "Data Analytics and Big data Analytics"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_prajwala_tr_profile",
+    "text": "Dr.Prajwala TR is a Associate Professor in the CSE department at PES University. Their email address is prajwalatr@pes.edu. Contact: prajwalatr@pes.edu. Research areas: Data Analytics and Big data Analytics, Machine Learning, Computer Vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Prajwala TR",
+      "designation": "Associate Professor",
+      "email": "prajwalatr@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_prajwala_tr_expertise",
+    "text": "Dr.Prajwala TR (Associate Professor) at PES University CSE department specialises in: Data Analytics and Big data Analytics, Machine Learning, Computer Vision. Email: prajwalatr@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Prajwala TR",
+      "designation": "Associate Professor",
+      "email": "prajwalatr@pes.edu",
+      "domains": [
+        "Data Analytics and Big data Analytics",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_vandana_m_l_profile",
+    "text": "Dr.Vandana M L is a Associate Professor in the CSE department at PES University. Their email address is Vandanamd@pes.edu. Contact: Vandanamd@pes.edu. Research areas: Machine Learning/Deep Learning, Computer Vision, Cognitive computing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Vandana M L",
+      "designation": "Associate Professor",
+      "email": "Vandanamd@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_vandana_m_l_expertise",
+    "text": "Dr.Vandana M L (Associate Professor) at PES University CSE department specialises in: Machine Learning/Deep Learning, Computer Vision, Cognitive computing, Artificial Intelligence/Gen AI/Explainable AI/Signal processing. Email: Vandanamd@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Vandana M L",
+      "designation": "Associate Professor",
+      "email": "Vandanamd@pes.edu",
+      "domains": [
+        "Machine Learning/Deep Learning",
+        "Computer Vision",
+        "Cognitive computing",
+        "Artificial Intelligence/Gen AI/Explainable AI/Signal processing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_animesh_giri_profile",
+    "text": "Animesh Giri is a Associate Professor in the CSE department at PES University. Their email address is Animeshgiri@pes.edu. Contact: Animeshgiri@pes.edu. Research areas: Cyber security + LLM, Data Analytics and Big data Analytics, IoT and Wireless Sensor Networks.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Animesh Giri",
+      "designation": "Associate Professor",
+      "email": "Animeshgiri@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_animesh_giri_expertise",
+    "text": "Animesh Giri (Associate Professor) at PES University CSE department specialises in: Cyber security + LLM, Data Analytics and Big data Analytics, IoT and Wireless Sensor Networks, ML,NLP, Blockchain, Computer Networks , Cloud Computing\nDistributed & Parallel Computing. Email: Animeshgiri@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Animesh Giri",
+      "designation": "Associate Professor",
+      "email": "Animeshgiri@pes.edu",
+      "domains": [
+        "Cyber security + LLM",
+        "Data Analytics and Big data Analytics",
+        "IoT and Wireless Sensor Networks",
+        "ML,NLP, Blockchain, Computer Networks , Cloud Computing\nDistributed & Parallel Computing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__chandrashekhar_p_chavan_profile",
+    "text": "Dr. Chandrashekhar P Chavan is a Associate Professor in the CSE department at PES University. Their email address is cpchavan@pes.edu. Contact: cpchavan@pes.edu. Research areas: Security in IoT, Wireless Sensor Networks, Agentic AI, Computer Networks, Distributed Computing, Cloud Computing, Big Data, Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Chandrashekhar P Chavan",
+      "designation": "Associate Professor",
+      "email": "cpchavan@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__chandrashekhar_p_chavan_expertise",
+    "text": "Dr. Chandrashekhar P Chavan (Associate Professor) at PES University CSE department specialises in: Security in IoT, Wireless Sensor Networks, Agentic AI, Computer Networks, Distributed Computing, Cloud Computing, Big Data, Machine Learning, Quantum Computing, Network security, Massive parallel computing, Block chain, Edge computing, Data\nAnalytics and GenAI. Email: cpchavan@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Chandrashekhar P Chavan",
+      "designation": "Associate Professor",
+      "email": "cpchavan@pes.edu",
+      "domains": [
+        "Security in IoT, Wireless Sensor Networks, Agentic AI",
+        "Computer Networks, Distributed Computing",
+        "Cloud Computing, Big Data, Machine Learning",
+        "Quantum Computing, Network security, Massive parallel computing, Block chain, Edge computing, Data\nAnalytics and GenAI"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__geetha_dayalan_profile",
+    "text": "Dr. Geetha Dayalan is a Associate Professor in the CSE department at PES University. Their email address is geethadayalan@pes.edu. Contact: geethadayalan@pes.edu. Research areas: Cyber Security, AI & ML in Cyber Security, Applications of ML in Computer Networks,\nIntrusion Detection, IoT, Blockchain and Cloud\nSecurity.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Geetha Dayalan",
+      "designation": "Associate Professor",
+      "email": "geethadayalan@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__geetha_dayalan_expertise",
+    "text": "Dr. Geetha Dayalan (Associate Professor) at PES University CSE department specialises in: Cyber Security, AI & ML in Cyber Security, Applications of ML in Computer Networks,\nIntrusion Detection, IoT, Blockchain and Cloud\nSecurity, MANET, VANET, V2V, Wireless Sensor Netwroks. Email: geethadayalan@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Geetha Dayalan",
+      "designation": "Associate Professor",
+      "email": "geethadayalan@pes.edu",
+      "domains": [
+        "Cyber Security",
+        "AI & ML in Cyber Security",
+        "Applications of ML in Computer Networks,\nIntrusion Detection, IoT, Blockchain and Cloud\nSecurity",
+        "MANET, VANET, V2V, Wireless Sensor Netwroks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_saritha_profile",
+    "text": "Dr.Saritha is a Associate Professor in the CSE department at PES University. Their email address is saritha.k@pes.edu. Contact: saritha.k@pes.edu. Research areas: Machine Learning, Cloud Computing, IoT and Wireless Sensor Networks.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Saritha",
+      "designation": "Associate Professor",
+      "email": "saritha.k@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_saritha_expertise",
+    "text": "Dr.Saritha (Associate Professor) at PES University CSE department specialises in: Machine Learning, Cloud Computing, IoT and Wireless Sensor Networks. Email: saritha.k@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Saritha",
+      "designation": "Associate Professor",
+      "email": "saritha.k@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Cloud Computing",
+        "IoT and Wireless Sensor Networks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_vinodha_k_profile",
+    "text": "Dr.Vinodha K is a Associate Professor in the CSE department at PES University. Their email address is vinodhak@pes.edu. Contact: vinodhak@pes.edu. Research areas: Machine Learning, Computer Networks, Cyber security.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Vinodha K",
+      "designation": "Associate Professor",
+      "email": "vinodhak@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_vinodha_k_expertise",
+    "text": "Dr.Vinodha K (Associate Professor) at PES University CSE department specialises in: Machine Learning, Computer Networks, Cyber security, Integrating AI/ML with IoT and Blockchain, Wireless sensor networks, Network security. Email: vinodhak@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Vinodha K",
+      "designation": "Associate Professor",
+      "email": "vinodhak@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Computer Networks",
+        "Cyber security",
+        "Integrating AI/ML with IoT and Blockchain, Wireless sensor networks, Network security"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__r__prema_profile",
+    "text": "Dr. R. Prema is a Associate Professor in the CSE department at PES University. Their email address is prema.r@pes.edu. Contact: prema.r@pes.edu. Research areas: Artificial Intelligence/Gen AI/Explainable AI, Natural Language Processing, Computer Vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. R. Prema",
+      "designation": "Associate Professor",
+      "email": "prema.r@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__r__prema_expertise",
+    "text": "Dr. R. Prema (Associate Professor) at PES University CSE department specialises in: Artificial Intelligence/Gen AI/Explainable AI, Natural Language Processing, Computer Vision. Email: prema.r@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. R. Prema",
+      "designation": "Associate Professor",
+      "email": "prema.r@pes.edu",
+      "domains": [
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__swati_pratap_jagdale_profile",
+    "text": "Dr. Swati Pratap Jagdale is a Associate Professor in the CSE department at PES University. Their email address is swatigambhire@pes.edu. Contact: swatigambhire@pes.edu. Research areas: Data Analytics and Big data Analytics, Machine Learning, Knowledge Graph /Ontologies.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Swati Pratap Jagdale",
+      "designation": "Associate Professor",
+      "email": "swatigambhire@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__swati_pratap_jagdale_expertise",
+    "text": "Dr. Swati Pratap Jagdale (Associate Professor) at PES University CSE department specialises in: Data Analytics and Big data Analytics, Machine Learning, Knowledge Graph /Ontologies. Email: swatigambhire@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Swati Pratap Jagdale",
+      "designation": "Associate Professor",
+      "email": "swatigambhire@pes.edu",
+      "domains": [
+        "Data Analytics and Big data Analytics",
+        "Machine Learning",
+        "Knowledge Graph /Ontologies"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__jeny_jijo_profile",
+    "text": "Dr. Jeny Jijo is a Associate Professor in the CSE department at PES University. Their email address is jenyjijo@pes.edu. Contact: jenyjijo@pes.edu. Research areas: Cloud Computing/Artificial Intelligence/Gen AI/Explain, aWblee bA IIntelligence, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Jeny Jijo",
+      "designation": "Associate Professor",
+      "email": "jenyjijo@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__jeny_jijo_expertise",
+    "text": "Dr. Jeny Jijo (Associate Professor) at PES University CSE department specialises in: Cloud Computing/Artificial Intelligence/Gen AI/Explain, aWblee bA IIntelligence, Data Analytics and Big data Analytics. Email: jenyjijo@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Jeny Jijo",
+      "designation": "Associate Professor",
+      "email": "jenyjijo@pes.edu",
+      "domains": [
+        "Cloud Computing/Artificial Intelligence/Gen AI/Explain",
+        "aWblee bA IIntelligence",
+        "Data Analytics and Big data Analytics"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_gauri_sameer_rapate_profile",
+    "text": "Dr.Gauri Sameer Rapate is a Associate Professor in the CSE department at PES University. Their email address is gauri.rapate@pes.edu. Contact: gauri.rapate@pes.edu. Research areas: IoT and Wireless Sensor Networks, Artificial Intelligence/Gen AI/Explainable AI, Cyber security.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Gauri Sameer Rapate",
+      "designation": "Associate Professor",
+      "email": "gauri.rapate@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_gauri_sameer_rapate_expertise",
+    "text": "Dr.Gauri Sameer Rapate (Associate Professor) at PES University CSE department specialises in: IoT and Wireless Sensor Networks, Artificial Intelligence/Gen AI/Explainable AI, Cyber security. Email: gauri.rapate@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Gauri Sameer Rapate",
+      "designation": "Associate Professor",
+      "email": "gauri.rapate@pes.edu",
+      "domains": [
+        "IoT and Wireless Sensor Networks",
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Cyber security"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_nazmin_begum_profile",
+    "text": "Dr.Nazmin Begum is a Associate Professor in the CSE department at PES University. Their email address is nazmin.b@pes.edu. Contact: nazmin.b@pes.edu. Research areas: Deep Learning, Computer Vision, Artificial Intelligence/Gen AI/Explainable AI.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Nazmin Begum",
+      "designation": "Associate Professor",
+      "email": "nazmin.b@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_nazmin_begum_expertise",
+    "text": "Dr.Nazmin Begum (Associate Professor) at PES University CSE department specialises in: Deep Learning, Computer Vision, Artificial Intelligence/Gen AI/Explainable AI. Email: nazmin.b@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Nazmin Begum",
+      "designation": "Associate Professor",
+      "email": "nazmin.b@pes.edu",
+      "domains": [
+        "Deep Learning",
+        "Computer Vision",
+        "Artificial Intelligence/Gen AI/Explainable AI"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_suja_c_m_profile",
+    "text": "Dr Suja C M is a Associate Professor in the CSE department at PES University. Their email address is cmsuja@pes.edu. Contact: cmsuja@pes.edu. Research areas: Deep Learning,Machine Learning, Cyber security, Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr Suja C M",
+      "designation": "Associate Professor",
+      "email": "cmsuja@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_suja_c_m_expertise",
+    "text": "Dr Suja C M (Associate Professor) at PES University CSE department specialises in: Deep Learning,Machine Learning, Cyber security, Machine Learning. Email: cmsuja@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr Suja C M",
+      "designation": "Associate Professor",
+      "email": "cmsuja@pes.edu",
+      "domains": [
+        "Deep Learning,Machine Learning",
+        "Cyber security",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_vaishali_shinde_profile",
+    "text": "Dr.Vaishali Shinde is a Associate Professor in the CSE department at PES University. Their email address is vaishali.ds@pes.edu. Contact: vaishali.ds@pes.edu. Research areas: Machine Learning,deep learning,computer vision, Deep Learning, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Vaishali Shinde",
+      "designation": "Associate Professor",
+      "email": "vaishali.ds@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_vaishali_shinde_expertise",
+    "text": "Dr.Vaishali Shinde (Associate Professor) at PES University CSE department specialises in: Machine Learning,deep learning,computer vision, Deep Learning, Data Analytics and Big data Analytics. Email: vaishali.ds@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Vaishali Shinde",
+      "designation": "Associate Professor",
+      "email": "vaishali.ds@pes.edu",
+      "domains": [
+        "Machine Learning,deep learning,computer vision",
+        "Deep Learning",
+        "Data Analytics and Big data Analytics"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_p_kokila_profile",
+    "text": "Dr.P KOKILA is a Associate Professor in the CSE department at PES University. Their email address is pkokila@pes.edu. Contact: pkokila@pes.edu. Research areas: Computer Vision, Artificial Intelligence(ML, DL, RL)/Gen AI, Natural Language Processing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.P KOKILA",
+      "designation": "Associate Professor",
+      "email": "pkokila@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_p_kokila_expertise",
+    "text": "Dr.P KOKILA (Associate Professor) at PES University CSE department specialises in: Computer Vision, Artificial Intelligence(ML, DL, RL)/Gen AI, Natural Language Processing, Cloud computing, IOT. Email: pkokila@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.P KOKILA",
+      "designation": "Associate Professor",
+      "email": "pkokila@pes.edu",
+      "domains": [
+        "Computer Vision",
+        "Artificial Intelligence(ML, DL, RL)/Gen AI",
+        "Natural Language Processing",
+        "Cloud computing, IOT"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_p_kavitha_profile",
+    "text": "Dr.P.Kavitha is a Associate Professor in the CSE department at PES University. Their email address is pkavitha@pes.edu. Contact: pkavitha@pes.edu. Research areas: Machine Learning, Wireless Security, Deep Learning / XAI.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.P.Kavitha",
+      "designation": "Associate Professor",
+      "email": "pkavitha@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_p_kavitha_expertise",
+    "text": "Dr.P.Kavitha (Associate Professor) at PES University CSE department specialises in: Machine Learning, Wireless Security, Deep Learning / XAI, Data Science. Email: pkavitha@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.P.Kavitha",
+      "designation": "Associate Professor",
+      "email": "pkavitha@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Wireless Security",
+        "Deep Learning / XAI",
+        "Data Science"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__s__pradeep_kumar_kenny_profile",
+    "text": "Dr. S. Pradeep Kumar Kenny is a Associate Professor in the CSE department at PES University. Email not available. Research areas: Image Processing, Data Science, Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. S. Pradeep Kumar Kenny",
+      "designation": "Associate Professor",
+      "email": ""
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__s__pradeep_kumar_kenny_expertise",
+    "text": "Dr. S. Pradeep Kumar Kenny (Associate Professor) at PES University CSE department specialises in: Image Processing, Data Science, Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. S. Pradeep Kumar Kenny",
+      "designation": "Associate Professor",
+      "email": "",
+      "domains": [
+        "Image Processing",
+        "Data Science",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__richa_sharma_profile",
+    "text": "Dr. Richa Sharma is a Associate Professor in the CSE department at PES University. Their email address is richasharma@pes.edu. Contact: richasharma@pes.edu. Research areas: Natural Language Processing, Artificial Intelligence/Gen AI/Explainable AI, Computer Vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Richa Sharma",
+      "designation": "Associate Professor",
+      "email": "richasharma@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__richa_sharma_expertise",
+    "text": "Dr. Richa Sharma (Associate Professor) at PES University CSE department specialises in: Natural Language Processing, Artificial Intelligence/Gen AI/Explainable AI, Computer Vision. Email: richasharma@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Richa Sharma",
+      "designation": "Associate Professor",
+      "email": "richasharma@pes.edu",
+      "domains": [
+        "Natural Language Processing",
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Computer Vision"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__gamini_joshi_profile",
+    "text": "Dr. Gamini Joshi is a Associate Professor in the CSE department at PES University. Their email address is joshi.gamini@gmail.com. Contact: joshi.gamini@gmail.com. Research areas: IoT and Wireless Sensor Networks, IoT security, Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Gamini Joshi",
+      "designation": "Associate Professor",
+      "email": "joshi.gamini@gmail.com"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__gamini_joshi_expertise",
+    "text": "Dr. Gamini Joshi (Associate Professor) at PES University CSE department specialises in: IoT and Wireless Sensor Networks, IoT security, Machine Learning, AI and Computer networks. Email: joshi.gamini@gmail.com.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Gamini Joshi",
+      "designation": "Associate Professor",
+      "email": "joshi.gamini@gmail.com",
+      "domains": [
+        "IoT and Wireless Sensor Networks",
+        "IoT security",
+        "Machine Learning",
+        "AI and Computer networks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__monika_profile",
+    "text": "Dr. Monika is a Associate Professor in the CSE department at PES University. Their email address is monika.goyal@pes.edu. Contact: monika.goyal@pes.edu. Research areas: Deep learning/Machine Learning, Computer Vision, AI in Healthcare, Medical Image processing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Monika",
+      "designation": "Associate Professor",
+      "email": "monika.goyal@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__monika_expertise",
+    "text": "Dr. Monika (Associate Professor) at PES University CSE department specialises in: Deep learning/Machine Learning, Computer Vision, AI in Healthcare, Medical Image processing, GenAI, LLM, ML, DL, Optimization Techniques, Image/Video Processing. Email: monika.goyal@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Monika",
+      "designation": "Associate Professor",
+      "email": "monika.goyal@pes.edu",
+      "domains": [
+        "Deep learning/Machine Learning",
+        "Computer Vision",
+        "AI in Healthcare, Medical Image processing",
+        "GenAI, LLM, ML, DL, Optimization Techniques, Image/Video Processing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_shilpa_s_profile",
+    "text": "Shilpa S is a Assistant Professor in the CSE department at PES University. Their email address is shilpas@pes.edu. Contact: shilpas@pes.edu. Research areas: Computer Vision, Cloud Computing, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Shilpa S",
+      "designation": "Assistant Professor",
+      "email": "shilpas@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_shilpa_s_expertise",
+    "text": "Shilpa S (Assistant Professor) at PES University CSE department specialises in: Computer Vision, Cloud Computing, Data Analytics and Big data Analytics, Deep Learning , Computer vision. Email: shilpas@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Shilpa S",
+      "designation": "Assistant Professor",
+      "email": "shilpas@pes.edu",
+      "domains": [
+        "Computer Vision",
+        "Cloud Computing",
+        "Data Analytics and Big data Analytics",
+        "Deep Learning , Computer vision"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_shruthi_l_profile",
+    "text": "Shruthi L is a Assistant Professor in the CSE department at PES University. Their email address is shruthil@pes.edu. Contact: shruthil@pes.edu. Research areas: Blockchain Technology, Cyber security, Computer Networks.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Shruthi L",
+      "designation": "Assistant Professor",
+      "email": "shruthil@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_shruthi_l_expertise",
+    "text": "Shruthi L (Assistant Professor) at PES University CSE department specialises in: Blockchain Technology, Cyber security, Computer Networks, Machine learning. Email: shruthil@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Shruthi L",
+      "designation": "Assistant Professor",
+      "email": "shruthil@pes.edu",
+      "domains": [
+        "Blockchain Technology",
+        "Cyber security",
+        "Computer Networks",
+        "Machine learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_prof_swetha_patil_profile",
+    "text": "Prof SWETHA PATIL is a Assistant Professor in the CSE department at PES University. Their email address is swetha.patil@pes.edu. Contact: swetha.patil@pes.edu. Research areas: Machine Learning, Computer Vision, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Prof SWETHA PATIL",
+      "designation": "Assistant Professor",
+      "email": "swetha.patil@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_prof_swetha_patil_expertise",
+    "text": "Prof SWETHA PATIL (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Computer Vision, Deep Learning. Email: swetha.patil@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Prof SWETHA PATIL",
+      "designation": "Assistant Professor",
+      "email": "swetha.patil@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Computer Vision",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_nivedita_kasturi_profile",
+    "text": "Nivedita Kasturi is a Assistant Professor in the CSE department at PES University. Their email address is niveditak@pes.edu. Contact: niveditak@pes.edu. Research areas: Data Analytics, Machine Learning, Social network analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Nivedita Kasturi",
+      "designation": "Assistant Professor",
+      "email": "niveditak@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_nivedita_kasturi_expertise",
+    "text": "Nivedita Kasturi (Assistant Professor) at PES University CSE department specialises in: Data Analytics, Machine Learning, Social network analytics, Crowdsourcing. Email: niveditak@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Nivedita Kasturi",
+      "designation": "Assistant Professor",
+      "email": "niveditak@pes.edu",
+      "domains": [
+        "Data Analytics",
+        "Machine Learning",
+        "Social network analytics",
+        "Crowdsourcing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_lenish_pramiee_profile",
+    "text": "Lenish Pramiee is a Assistant Professor in the CSE department at PES University. Their email address is lenish.pj@pes.edu. Contact: lenish.pj@pes.edu. Research areas: Machine Learning, Computer Vision, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Lenish Pramiee",
+      "designation": "Assistant Professor",
+      "email": "lenish.pj@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_lenish_pramiee_expertise",
+    "text": "Lenish Pramiee (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Computer Vision, Deep Learning. Email: lenish.pj@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Lenish Pramiee",
+      "designation": "Assistant Professor",
+      "email": "lenish.pj@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Computer Vision",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_pavithra_s_profile",
+    "text": "Pavithra S is a Assistant Professor in the CSE department at PES University. Their email address is pavithra.s@pes.edu. Contact: pavithra.s@pes.edu. Research areas: Image Processing, Machine Learning/Deep learning, Data Analytics and Big data Analytics.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Pavithra S",
+      "designation": "Assistant Professor",
+      "email": "pavithra.s@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_pavithra_s_expertise",
+    "text": "Pavithra S (Assistant Professor) at PES University CSE department specialises in: Image Processing, Machine Learning/Deep learning, Data Analytics and Big data Analytics, cloud computing, satellite image processing. Email: pavithra.s@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Pavithra S",
+      "designation": "Assistant Professor",
+      "email": "pavithra.s@pes.edu",
+      "domains": [
+        "Image Processing",
+        "Machine Learning/Deep learning",
+        "Data Analytics and Big data Analytics",
+        "cloud computing, satellite image processing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_neha_sharma_profile",
+    "text": "NEHA SHARMA is a Assistant Professor in the CSE department at PES University. Their email address is neha.sharma@pes.edu. Contact: neha.sharma@pes.edu. Research areas: Machine learning/Deep Learning, AI in Healthcare, Computer vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "NEHA SHARMA",
+      "designation": "Assistant Professor",
+      "email": "neha.sharma@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_neha_sharma_expertise",
+    "text": "NEHA SHARMA (Assistant Professor) at PES University CSE department specialises in: Machine learning/Deep Learning, AI in Healthcare, Computer vision. Email: neha.sharma@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "NEHA SHARMA",
+      "designation": "Assistant Professor",
+      "email": "neha.sharma@pes.edu",
+      "domains": [
+        "Machine learning/Deep Learning",
+        "AI in Healthcare",
+        "Computer vision"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_kundhavai_k_r_profile",
+    "text": "Kundhavai K R is a Assistant Professor in the CSE department at PES University. Their email address is kundhavaikr@pes.edu. Contact: kundhavaikr@pes.edu. Research areas: Cyber security, Deep Learning, Artificial Intelligence/Gen AI/Explainable AI.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Kundhavai K R",
+      "designation": "Assistant Professor",
+      "email": "kundhavaikr@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_kundhavai_k_r_expertise",
+    "text": "Kundhavai K R (Assistant Professor) at PES University CSE department specialises in: Cyber security, Deep Learning, Artificial Intelligence/Gen AI/Explainable AI. Email: kundhavaikr@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Kundhavai K R",
+      "designation": "Assistant Professor",
+      "email": "kundhavaikr@pes.edu",
+      "domains": [
+        "Cyber security",
+        "Deep Learning",
+        "Artificial Intelligence/Gen AI/Explainable AI"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_divya_ebenezer_nathaniel_profile",
+    "text": "Divya Ebenezer Nathaniel is a Assistant Professor in the CSE department at PES University. Their email address is divya.en@pes.edu. Contact: divya.en@pes.edu. Research areas: Cloud Computing, Machine Learning, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Divya Ebenezer Nathaniel",
+      "designation": "Assistant Professor",
+      "email": "divya.en@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_divya_ebenezer_nathaniel_expertise",
+    "text": "Divya Ebenezer Nathaniel (Assistant Professor) at PES University CSE department specialises in: Cloud Computing, Machine Learning, Deep Learning. Email: divya.en@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Divya Ebenezer Nathaniel",
+      "designation": "Assistant Professor",
+      "email": "divya.en@pes.edu",
+      "domains": [
+        "Cloud Computing",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_umme_haani_profile",
+    "text": "UMME HAANI is a Assistant Professor in the CSE department at PES University. Their email address is umme.haani@pes.edu. Contact: umme.haani@pes.edu. Research areas: Data Analytics and Big data Analytics, Machine Learning, Computer Networks.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "UMME HAANI",
+      "designation": "Assistant Professor",
+      "email": "umme.haani@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_umme_haani_expertise",
+    "text": "UMME HAANI (Assistant Professor) at PES University CSE department specialises in: Data Analytics and Big data Analytics, Machine Learning, Computer Networks. Email: umme.haani@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "UMME HAANI",
+      "designation": "Assistant Professor",
+      "email": "umme.haani@pes.edu",
+      "domains": [
+        "Data Analytics and Big data Analytics",
+        "Machine Learning",
+        "Computer Networks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_deepti_c_profile",
+    "text": "Deepti C is a Assistant Professor in the CSE department at PES University. Their email address is deeptic@pes.edu. Contact: deeptic@pes.edu. Research areas: IoT and Wireless Sensor Networks, Cyber security, Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Deepti C",
+      "designation": "Assistant Professor",
+      "email": "deeptic@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_deepti_c_expertise",
+    "text": "Deepti C (Assistant Professor) at PES University CSE department specialises in: IoT and Wireless Sensor Networks, Cyber security, Machine Learning. Email: deeptic@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Deepti C",
+      "designation": "Assistant Professor",
+      "email": "deeptic@pes.edu",
+      "domains": [
+        "IoT and Wireless Sensor Networks",
+        "Cyber security",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_ruby_dinakar_profile",
+    "text": "Ruby Dinakar is a Assistant Professor in the CSE department at PES University. Their email address is rubydinakar@pes.edu. Contact: rubydinakar@pes.edu. Research areas: Artificial Intelligence/Gen AI/Explainable AI/ML, Data Analytics and Big data Analytics, Vector database, IoT, Cloud computing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Ruby Dinakar",
+      "designation": "Assistant Professor",
+      "email": "rubydinakar@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_ruby_dinakar_expertise",
+    "text": "Ruby Dinakar (Assistant Professor) at PES University CSE department specialises in: Artificial Intelligence/Gen AI/Explainable AI/ML, Data Analytics and Big data Analytics, Vector database, IoT, Cloud computing, Deep Learning. Email: rubydinakar@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Ruby Dinakar",
+      "designation": "Assistant Professor",
+      "email": "rubydinakar@pes.edu",
+      "domains": [
+        "Artificial Intelligence/Gen AI/Explainable AI/ML",
+        "Data Analytics and Big data Analytics",
+        "Vector database, IoT, Cloud computing",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_nagalakshmi_s_r_profile",
+    "text": "NAGALAKSHMI S R is a Assistant Professor in the CSE department at PES University. Their email address is nagalakshmi.s.r@pes.edu. Contact: nagalakshmi.s.r@pes.edu. Research areas: Software testing, verification -Formal Methods, IoT.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "NAGALAKSHMI S R",
+      "designation": "Assistant Professor",
+      "email": "nagalakshmi.s.r@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_nagalakshmi_s_r_expertise",
+    "text": "NAGALAKSHMI S R (Assistant Professor) at PES University CSE department specialises in: Software testing, verification -Formal Methods, IoT, Robotics process automation. Email: nagalakshmi.s.r@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "NAGALAKSHMI S R",
+      "designation": "Assistant Professor",
+      "email": "nagalakshmi.s.r@pes.edu",
+      "domains": [
+        "Software testing",
+        "verification -Formal Methods",
+        "IoT",
+        "Robotics process automation"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_divyaprabha_k_n_profile",
+    "text": "Divyaprabha K N is a Assistant Professor in the CSE department at PES University. Their email address is divyaprabha@pes.edu. Contact: divyaprabha@pes.edu. Research areas: System and Architecture/Parallel Computing/ Compiler, OAprttiifmiciizaal tIinotnelligence/Gen AI/Explainable AI, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Divyaprabha K N",
+      "designation": "Assistant Professor",
+      "email": "divyaprabha@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_divyaprabha_k_n_expertise",
+    "text": "Divyaprabha K N (Assistant Professor) at PES University CSE department specialises in: System and Architecture/Parallel Computing/ Compiler, OAprttiifmiciizaal tIinotnelligence/Gen AI/Explainable AI, Deep Learning. Email: divyaprabha@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Divyaprabha K N",
+      "designation": "Assistant Professor",
+      "email": "divyaprabha@pes.edu",
+      "domains": [
+        "System and Architecture/Parallel Computing/ Compiler",
+        "OAprttiifmiciizaal tIinotnelligence/Gen AI/Explainable AI",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_swathi_priya_n_profile",
+    "text": "Swathi Priya N is a Assistant Professor in the CSE department at PES University. Their email address is swathipriya.n@pes.edu. Contact: swathipriya.n@pes.edu. Research areas: Machine Learning, Data Analytics and Big data Analytics, Natural Language Processing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Swathi Priya N",
+      "designation": "Assistant Professor",
+      "email": "swathipriya.n@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_swathi_priya_n_expertise",
+    "text": "Swathi Priya N (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Data Analytics and Big data Analytics, Natural Language Processing. Email: swathipriya.n@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Swathi Priya N",
+      "designation": "Assistant Professor",
+      "email": "swathipriya.n@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Data Analytics and Big data Analytics",
+        "Natural Language Processing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_sheela_devi_m_profile",
+    "text": "Sheela Devi M is a Assistant Professor in the CSE department at PES University. Their email address is sheelam@pes.edu. Contact: sheelam@pes.edu. Research areas: Cyber security, Computer Networks, IoT and Wireless Sensor Networks,Data Mining,machine learning,Cyber Security,ethical Hacking,adhoc networks,VANET,MANET.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Sheela Devi M",
+      "designation": "Assistant Professor",
+      "email": "sheelam@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_sheela_devi_m_expertise",
+    "text": "Sheela Devi M (Assistant Professor) at PES University CSE department specialises in: Cyber security, Computer Networks, IoT and Wireless Sensor Networks,Data Mining,machine learning,Cyber Security,ethical Hacking,adhoc networks,VANET,MANET. Email: sheelam@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Sheela Devi M",
+      "designation": "Assistant Professor",
+      "email": "sheelam@pes.edu",
+      "domains": [
+        "Cyber security",
+        "Computer Networks",
+        "IoT and Wireless Sensor Networks,Data Mining,machine learning,Cyber Security,ethical Hacking,adhoc networks,VANET,MANET"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_r_nandhi_kesavan_profile",
+    "text": "Dr.R.Nandhi Kesavan is a Assistant Professor in the CSE department at PES University. Their email address is nandhi.kesavan@pes.edu. Contact: nandhi.kesavan@pes.edu. Research areas: Machine Learning, Data Mining, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.R.Nandhi Kesavan",
+      "designation": "Assistant Professor",
+      "email": "nandhi.kesavan@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_r_nandhi_kesavan_expertise",
+    "text": "Dr.R.Nandhi Kesavan (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Data Mining, Deep Learning, Artificial Intelligence. Email: nandhi.kesavan@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.R.Nandhi Kesavan",
+      "designation": "Assistant Professor",
+      "email": "nandhi.kesavan@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Data Mining",
+        "Deep Learning",
+        "Artificial Intelligence"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_prof__lakshmi_satya_vani_n_profile",
+    "text": "Prof. Lakshmi Satya Vani N is a Associate Professor in the CSE department at PES University. Their email address is sathyavaninl@pes.edu. Contact: sathyavaninl@pes.edu. Research areas: Machine Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Prof. Lakshmi Satya Vani N",
+      "designation": "Associate Professor",
+      "email": "sathyavaninl@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_prof__lakshmi_satya_vani_n_expertise",
+    "text": "Prof. Lakshmi Satya Vani N (Associate Professor) at PES University CSE department specialises in: Machine Learning. Email: sathyavaninl@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Prof. Lakshmi Satya Vani N",
+      "designation": "Associate Professor",
+      "email": "sathyavaninl@pes.edu",
+      "domains": [
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__m__shalima_sulthana_profile",
+    "text": "Dr. M. Shalima Sulthana is a Associate Professor in the CSE department at PES University. Their email address is mssulthana@pes.edu. Contact: mssulthana@pes.edu. Research areas: Machine Learning, Artificial Intelligence/Gen AI/Explainable AI, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. M. Shalima Sulthana",
+      "designation": "Associate Professor",
+      "email": "mssulthana@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__m__shalima_sulthana_expertise",
+    "text": "Dr. M. Shalima Sulthana (Associate Professor) at PES University CSE department specialises in: Machine Learning, Artificial Intelligence/Gen AI/Explainable AI, Deep Learning. Email: mssulthana@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. M. Shalima Sulthana",
+      "designation": "Associate Professor",
+      "email": "mssulthana@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Artificial Intelligence/Gen AI/Explainable AI",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__praveenkumar_s_m_profile",
+    "text": "Dr. Praveenkumar S M is a Associate Professor in the CSE department at PES University. Their email address is praveenkumarsm@pes.edu. Contact: praveenkumarsm@pes.edu. Research areas: Computer Vision, Deep Learning, Agentic AI.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr. Praveenkumar S M",
+      "designation": "Associate Professor",
+      "email": "praveenkumarsm@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr__praveenkumar_s_m_expertise",
+    "text": "Dr. Praveenkumar S M (Associate Professor) at PES University CSE department specialises in: Computer Vision, Deep Learning, Agentic AI. Email: praveenkumarsm@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr. Praveenkumar S M",
+      "designation": "Associate Professor",
+      "email": "praveenkumarsm@pes.edu",
+      "domains": [
+        "Computer Vision",
+        "Deep Learning",
+        "Agentic AI"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_ramya_sri_chaganti_profile",
+    "text": "Ramya sri Chaganti is a Faculty Associate in the CSE department at PES University. Their email address is ramyasc@pes.edu. Contact: ramyasc@pes.edu. Research areas: Cyber Security, Deep Learning, Artificial Intelligence.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Ramya sri Chaganti",
+      "designation": "Faculty Associate",
+      "email": "ramyasc@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_ramya_sri_chaganti_expertise",
+    "text": "Ramya sri Chaganti (Faculty Associate) at PES University CSE department specialises in: Cyber Security, Deep Learning, Artificial Intelligence, IOT. Email: ramyasc@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Ramya sri Chaganti",
+      "designation": "Faculty Associate",
+      "email": "ramyasc@pes.edu",
+      "domains": [
+        "Cyber Security",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "IOT"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_sowmya_a_m_profile",
+    "text": "Sowmya A M is a Assistant Professor in the CSE department at PES University. Their email address is sowmyam@pes.edu. Contact: sowmyam@pes.edu. Research areas: Machine Learning, Cyber Security, AI in Healthcare.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Sowmya A M",
+      "designation": "Assistant Professor",
+      "email": "sowmyam@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_sowmya_a_m_expertise",
+    "text": "Sowmya A M (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Cyber Security, AI in Healthcare, IOT. Email: sowmyam@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Sowmya A M",
+      "designation": "Assistant Professor",
+      "email": "sowmyam@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Cyber Security",
+        "AI in Healthcare",
+        "IOT"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_ankita_singhai_profile",
+    "text": "Ankita Singhai is a Assistant Professor in the CSE department at PES University. Their email address is ankitasinghai@pes.edu. Contact: ankitasinghai@pes.edu. Research areas: Machine Learning, Data Mining, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Ankita Singhai",
+      "designation": "Assistant Professor",
+      "email": "ankitasinghai@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_ankita_singhai_expertise",
+    "text": "Ankita Singhai (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Data Mining, Deep Learning. Email: ankitasinghai@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Ankita Singhai",
+      "designation": "Assistant Professor",
+      "email": "ankitasinghai@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Data Mining",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_senthil_anandhi_a_profile",
+    "text": "Senthil Anandhi A is a Assistant Professor in the CSE department at PES University. Their email address is senthilanandhi.a@pes.edu. Contact: senthilanandhi.a@pes.edu. Research areas: Image Processing, Deep learning, Computer Vision.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Senthil Anandhi A",
+      "designation": "Assistant Professor",
+      "email": "senthilanandhi.a@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_senthil_anandhi_a_expertise",
+    "text": "Senthil Anandhi A (Assistant Professor) at PES University CSE department specialises in: Image Processing, Deep learning, Computer Vision. Email: senthilanandhi.a@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Senthil Anandhi A",
+      "designation": "Assistant Professor",
+      "email": "senthilanandhi.a@pes.edu",
+      "domains": [
+        "Image Processing",
+        "Deep learning",
+        "Computer Vision"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_chithambarathanu_m_profile",
+    "text": "Chithambarathanu M is a Assistant Professor in the CSE department at PES University. Their email address is chithambaramthanu@pes.edu. Contact: chithambaramthanu@pes.edu. Research areas: Image Processing, IoT and Wireless Sensor Networks, Deep Learning.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Chithambarathanu M",
+      "designation": "Assistant Professor",
+      "email": "chithambaramthanu@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_chithambarathanu_m_expertise",
+    "text": "Chithambarathanu M (Assistant Professor) at PES University CSE department specialises in: Image Processing, IoT and Wireless Sensor Networks, Deep Learning. Email: chithambaramthanu@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Chithambarathanu M",
+      "designation": "Assistant Professor",
+      "email": "chithambaramthanu@pes.edu",
+      "domains": [
+        "Image Processing",
+        "IoT and Wireless Sensor Networks",
+        "Deep Learning"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_vanitha_a_n_profile",
+    "text": "Vanitha A N is a Assistant Professor in the CSE department at PES University. Their email address is vanithaan@pes.edu. Contact: vanithaan@pes.edu. Research areas: Computer Networks, Cyber security, Wireless Sensor Networks.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Vanitha A N",
+      "designation": "Assistant Professor",
+      "email": "vanithaan@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_vanitha_a_n_expertise",
+    "text": "Vanitha A N (Assistant Professor) at PES University CSE department specialises in: Computer Networks, Cyber security, Wireless Sensor Networks, ethical Hacking,adhoc networks. Email: vanithaan@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Vanitha A N",
+      "designation": "Assistant Professor",
+      "email": "vanithaan@pes.edu",
+      "domains": [
+        "Computer Networks",
+        "Cyber security",
+        "Wireless Sensor Networks",
+        "ethical Hacking,adhoc networks"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_shemeema_hashim_profile",
+    "text": "Shemeema Hashim is a Assistant Professor in the CSE department at PES University. Their email address is shemeemahashim@pes.edu. Contact: shemeemahashim@pes.edu. Research areas: Machine Learning, Natural Language Processing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Shemeema Hashim",
+      "designation": "Assistant Professor",
+      "email": "shemeemahashim@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_shemeema_hashim_expertise",
+    "text": "Shemeema Hashim (Assistant Professor) at PES University CSE department specialises in: Machine Learning, Natural Language Processing. Email: shemeemahashim@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Shemeema Hashim",
+      "designation": "Assistant Professor",
+      "email": "shemeemahashim@pes.edu",
+      "domains": [
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_thangamani_r_profile",
+    "text": "Thangamani.R is a Assistant Professor in the CSE department at PES University. Their email address is thangamanir@pes.edu. Contact: thangamanir@pes.edu. Research areas: Computer Networks, cybersecurity.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Thangamani.R",
+      "designation": "Assistant Professor",
+      "email": "thangamanir@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_thangamani_r_expertise",
+    "text": "Thangamani.R (Assistant Professor) at PES University CSE department specialises in: Computer Networks, cybersecurity. Email: thangamanir@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Thangamani.R",
+      "designation": "Assistant Professor",
+      "email": "thangamanir@pes.edu",
+      "domains": [
+        "Computer Networks",
+        "cybersecurity"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_gokulakrishnan_s_profile",
+    "text": "Dr.Gokulakrishnan S is a Associate Professor in the CSE department at PES University. Their email address is gokulakrishnan.s@pes.edu. Contact: gokulakrishnan.s@pes.edu. Research areas: Cloud Computing, Human Computer Interaction, Social Web.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Gokulakrishnan S",
+      "designation": "Associate Professor",
+      "email": "gokulakrishnan.s@pes.edu"
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_gokulakrishnan_s_expertise",
+    "text": "Dr.Gokulakrishnan S (Associate Professor) at PES University CSE department specialises in: Cloud Computing, Human Computer Interaction, Social Web, Data Science and Data Analytics. Email: gokulakrishnan.s@pes.edu.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Dr.Gokulakrishnan S",
+      "designation": "Associate Professor",
+      "email": "gokulakrishnan.s@pes.edu",
+      "domains": [
+        "Cloud Computing",
+        "Human Computer Interaction",
+        "Social Web",
+        "Data Science and Data Analytics"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_prof_siba_ram_profile",
+    "text": "Prof.Siba Ram is a  in the CSE department at PES University. Email not available. Research areas: not specified.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Prof.Siba Ram",
+      "designation": "",
+      "email": ""
+    }
+  },
+  {
+    "chunk_id": "faculty_dr_ashwini_profile",
+    "text": "Dr.Ashwini is a Professor in the CSE department at PES University. Email not available. Research areas: not specified.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Dr.Ashwini",
+      "designation": "Professor",
+      "email": ""
+    }
+  },
+  {
+    "chunk_id": "faculty_prof_vinu_profile",
+    "text": "Prof.Vinu is a Assistant Professor in the CSE department at PES University. Their email address is vinu5univ@gmail.com. Contact: vinu5univ@gmail.com. Research areas: Computer Networks, Machine Learning, Cloud Computing.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "profile",
+      "name": "Prof.Vinu",
+      "designation": "Assistant Professor",
+      "email": "vinu5univ@gmail.com"
+    }
+  },
+  {
+    "chunk_id": "faculty_prof_vinu_expertise",
+    "text": "Prof.Vinu (Assistant Professor) at PES University CSE department specialises in: Computer Networks, Machine Learning, Cloud Computing. Email: vinu5univ@gmail.com.",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "expertise",
+      "name": "Prof.Vinu",
+      "designation": "Assistant Professor",
+      "email": "vinu5univ@gmail.com",
+      "domains": [
+        "Computer Networks",
+        "Machine Learning",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_artificial_intelligence",
+    "text": "Faculty members with expertise in Artificial Intelligence at PES University CSE:\n\n  - Dr. Arti Arya (Professor/Chairperso n- AI&ML) — email: artiarya@pes.edu\n  - Dr.M.Farida Begam (Professor) — email: farida.begam@pes.edu\n  - Dr. Gokul Kannan Sadasivam (Professor) — email: gokul@pes.edu\n  - Dr.Sudeepa Roy (Associate Professor) — email: sudeepar@pes.edu\n  - Dr.Vandana M L (Associate Professor) — email: Vandanamd@pes.edu\n  - Dr. Chandrashekhar P Chavan (Associate Professor) — email: cpchavan@pes.edu\n  - Dr. R. Prema (Associate Professor) — email: prema.r@pes.edu\n  - Dr. Jeny Jijo (Associate Professor) — email: jenyjijo@pes.edu\n  - Dr.Gauri Sameer Rapate (Associate Professor) — email: gauri.rapate@pes.edu\n  - Dr.Nazmin Begum (Associate Professor) — email: nazmin.b@pes.edu\n  - Dr. Richa Sharma (Associate Professor) — email: richasharma@pes.edu\n  - Dr. Gamini Joshi (Associate Professor) — email: joshi.gamini@gmail.com\n  - Dr. Monika (Associate Professor) — email: monika.goyal@pes.edu\n  - Shruthi L (Assistant Professor) — email: shruthil@pes.edu\n  - NEHA SHARMA (Assistant Professor) — email: neha.sharma@pes.edu\n  - Kundhavai K R (Assistant Professor) — email: kundhavaikr@pes.edu\n  - Divyaprabha K N (Assistant Professor) — email: divyaprabha@pes.edu\n  - Dr.R.Nandhi Kesavan (Assistant Professor) — email: nandhi.kesavan@pes.edu\n  - Dr. M. Shalima Sulthana (Associate Professor) — email: mssulthana@pes.edu\n  - Dr. Praveenkumar S M (Associate Professor) — email: praveenkumarsm@pes.edu\n  - Ramya sri Chaganti (Faculty Associate) — email: ramyasc@pes.edu\n  - Sowmya A M (Assistant Professor) — email: sowmyam@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Artificial Intelligence",
+      "total_faculty": 22
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_cloud_computing",
+    "text": "Faculty members with expertise in Cloud Computing at PES University CSE:\n\n  - Dr.Sharavana (Professor) — email: sharavana.kk@pes.edu\n  - Dr.Manju (Professor) — email: manju.nunia@pes.edu\n  - Dr.Saritha (Associate Professor) — email: saritha.k@pes.edu\n  - Dr.P KOKILA (Associate Professor) — email: pkokila@pes.edu\n  - Shilpa S (Assistant Professor) — email: shilpas@pes.edu\n  - Pavithra S (Assistant Professor) — email: pavithra.s@pes.edu\n  - Divya Ebenezer Nathaniel (Assistant Professor) — email: divya.en@pes.edu\n  - Ruby Dinakar (Assistant Professor) — email: rubydinakar@pes.edu\n  - Dr.Gokulakrishnan S (Associate Professor) — email: gokulakrishnan.s@pes.edu\n  - Prof.Vinu (Assistant Professor) — email: vinu5univ@gmail.com",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Cloud Computing",
+      "total_faculty": 10
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_computer_networks",
+    "text": "Faculty members with expertise in Computer Networks at PES University CSE:\n\n  - Dr.Vinodha K (Associate Professor) — email: vinodhak@pes.edu\n  - Shruthi L (Assistant Professor) — email: shruthil@pes.edu\n  - UMME HAANI (Assistant Professor) — email: umme.haani@pes.edu\n  - Sheela Devi M (Assistant Professor) — email: sheelam@pes.edu\n  - Vanitha A N (Assistant Professor) — email: vanithaan@pes.edu\n  - Thangamani.R (Assistant Professor) — email: thangamanir@pes.edu\n  - Prof.Vinu (Assistant Professor) — email: vinu5univ@gmail.com",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Computer Networks",
+      "total_faculty": 7
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_computer_vision",
+    "text": "Faculty members with expertise in Computer Vision at PES University CSE:\n\n  - Dr.Sandesh BJ (Chairperson) — email: sandesh_bj@pes.edu\n  - Dr. Arti Arya (Professor/Chairperso n- AI&ML) — email: artiarya@pes.edu\n  - Dr Pooja Agarwal (Professor) — email: poojaagarwal@pes.edu\n  - Dr.Prajwala TR (Associate Professor) — email: prajwalatr@pes.edu\n  - Dr.Vandana M L (Associate Professor) — email: Vandanamd@pes.edu\n  - Dr. R. Prema (Associate Professor) — email: prema.r@pes.edu\n  - Dr.Nazmin Begum (Associate Professor) — email: nazmin.b@pes.edu\n  - Dr.P KOKILA (Associate Professor) — email: pkokila@pes.edu\n  - Dr. Richa Sharma (Associate Professor) — email: richasharma@pes.edu\n  - Dr. Monika (Associate Professor) — email: monika.goyal@pes.edu\n  - Shilpa S (Assistant Professor) — email: shilpas@pes.edu\n  - Prof SWETHA PATIL (Assistant Professor) — email: swetha.patil@pes.edu\n  - Lenish Pramiee (Assistant Professor) — email: lenish.pj@pes.edu\n  - NEHA SHARMA (Assistant Professor) — email: neha.sharma@pes.edu\n  - Dr. Praveenkumar S M (Associate Professor) — email: praveenkumarsm@pes.edu\n  - Senthil Anandhi A (Assistant Professor) — email: senthilanandhi.a@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Computer Vision",
+      "total_faculty": 16
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_cyber_security",
+    "text": "Faculty members with expertise in Cyber Security at PES University CSE:\n\n  - Dr. Gokul Kannan Sadasivam (Professor) — email: gokul@pes.edu\n  - Animesh Giri (Associate Professor) — email: Animeshgiri@pes.edu\n  - Dr. Geetha Dayalan (Associate Professor) — email: geethadayalan@pes.edu\n  - Dr.Vinodha K (Associate Professor) — email: vinodhak@pes.edu\n  - Dr.Gauri Sameer Rapate (Associate Professor) — email: gauri.rapate@pes.edu\n  - Dr Suja C M (Associate Professor) — email: cmsuja@pes.edu\n  - Shruthi L (Assistant Professor) — email: shruthil@pes.edu\n  - Kundhavai K R (Assistant Professor) — email: kundhavaikr@pes.edu\n  - Deepti C (Assistant Professor) — email: deeptic@pes.edu\n  - Sheela Devi M (Assistant Professor) — email: sheelam@pes.edu\n  - Ramya sri Chaganti (Faculty Associate) — email: ramyasc@pes.edu\n  - Sowmya A M (Assistant Professor) — email: sowmyam@pes.edu\n  - Vanitha A N (Assistant Professor) — email: vanithaan@pes.edu\n  - Thangamani.R (Assistant Professor) — email: thangamanir@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Cyber Security",
+      "total_faculty": 14
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_data_analytics",
+    "text": "Faculty members with expertise in Data Analytics at PES University CSE:\n\n  - Dr.Sandesh BJ (Chairperson) — email: sandesh_bj@pes.edu\n  - Dr.Sharavana (Professor) — email: sharavana.kk@pes.edu\n  - Dr.Sudeepa Roy (Associate Professor) — email: sudeepar@pes.edu\n  - Dr.Prajwala TR (Associate Professor) — email: prajwalatr@pes.edu\n  - Animesh Giri (Associate Professor) — email: Animeshgiri@pes.edu\n  - Dr. Swati Pratap Jagdale (Associate Professor) — email: swatigambhire@pes.edu\n  - Dr. Jeny Jijo (Associate Professor) — email: jenyjijo@pes.edu\n  - Dr.Vaishali Shinde (Associate Professor) — email: vaishali.ds@pes.edu\n  - Shilpa S (Assistant Professor) — email: shilpas@pes.edu\n  - Nivedita Kasturi (Assistant Professor) — email: niveditak@pes.edu\n  - Pavithra S (Assistant Professor) — email: pavithra.s@pes.edu\n  - UMME HAANI (Assistant Professor) — email: umme.haani@pes.edu\n  - Ruby Dinakar (Assistant Professor) — email: rubydinakar@pes.edu\n  - Swathi Priya N (Assistant Professor) — email: swathipriya.n@pes.edu\n  - Dr.Gokulakrishnan S (Associate Professor) — email: gokulakrishnan.s@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Data Analytics",
+      "total_faculty": 15
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_data_mining",
+    "text": "Faculty members with expertise in Data Mining at PES University CSE:\n\n  - Dr.R.Nandhi Kesavan (Assistant Professor) — email: nandhi.kesavan@pes.edu\n  - Ankita Singhai (Assistant Professor) — email: ankitasinghai@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Data Mining",
+      "total_faculty": 2
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_data_science",
+    "text": "Faculty members with expertise in Data Science at PES University CSE:\n\n  - Dr.P.Kavitha (Associate Professor) — email: pkavitha@pes.edu\n  - Dr. S. Pradeep Kumar Kenny (Associate Professor)",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Data Science",
+      "total_faculty": 2
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_deep_learning",
+    "text": "Faculty members with expertise in Deep Learning at PES University CSE:\n\n  - Dr.Sandesh BJ (Chairperson) — email: sandesh_bj@pes.edu\n  - Dr Pooja Agarwal (Professor) — email: poojaagarwal@pes.edu\n  - Dr.M.Farida Begam (Professor) — email: farida.begam@pes.edu\n  - Dr. Gokul Kannan Sadasivam (Professor) — email: gokul@pes.edu\n  - Dr.Nazmin Begum (Associate Professor) — email: nazmin.b@pes.edu\n  - Dr.Vaishali Shinde (Associate Professor) — email: vaishali.ds@pes.edu\n  - Dr.P.Kavitha (Associate Professor) — email: pkavitha@pes.edu\n  - Shilpa S (Assistant Professor) — email: shilpas@pes.edu\n  - Prof SWETHA PATIL (Assistant Professor) — email: swetha.patil@pes.edu\n  - Lenish Pramiee (Assistant Professor) — email: lenish.pj@pes.edu\n  - Kundhavai K R (Assistant Professor) — email: kundhavaikr@pes.edu\n  - Divya Ebenezer Nathaniel (Assistant Professor) — email: divya.en@pes.edu\n  - Ruby Dinakar (Assistant Professor) — email: rubydinakar@pes.edu\n  - Divyaprabha K N (Assistant Professor) — email: divyaprabha@pes.edu\n  - Dr.R.Nandhi Kesavan (Assistant Professor) — email: nandhi.kesavan@pes.edu\n  - Dr. M. Shalima Sulthana (Associate Professor) — email: mssulthana@pes.edu\n  - Dr. Praveenkumar S M (Associate Professor) — email: praveenkumarsm@pes.edu\n  - Ramya sri Chaganti (Faculty Associate) — email: ramyasc@pes.edu\n  - Ankita Singhai (Assistant Professor) — email: ankitasinghai@pes.edu\n  - Senthil Anandhi A (Assistant Professor) — email: senthilanandhi.a@pes.edu\n  - Chithambarathanu M (Assistant Professor) — email: chithambaramthanu@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Deep Learning",
+      "total_faculty": 21
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_image_processing",
+    "text": "Faculty members with expertise in Image Processing at PES University CSE:\n\n  - Dr. S. Pradeep Kumar Kenny (Associate Professor)\n  - Pavithra S (Assistant Professor) — email: pavithra.s@pes.edu\n  - Senthil Anandhi A (Assistant Professor) — email: senthilanandhi.a@pes.edu\n  - Chithambarathanu M (Assistant Professor) — email: chithambaramthanu@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Image Processing",
+      "total_faculty": 4
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_iot",
+    "text": "Faculty members with expertise in IoT at PES University CSE:\n\n  - Dr.Sharavana (Professor) — email: sharavana.kk@pes.edu\n  - Dr.Mannar Mannan (Professor) — email: mannar.mj@pes.edu\n  - Animesh Giri (Associate Professor) — email: Animeshgiri@pes.edu\n  - Dr.Saritha (Associate Professor) — email: saritha.k@pes.edu\n  - Dr.Gauri Sameer Rapate (Associate Professor) — email: gauri.rapate@pes.edu\n  - Dr. Gamini Joshi (Associate Professor) — email: joshi.gamini@gmail.com\n  - Deepti C (Assistant Professor) — email: deeptic@pes.edu\n  - NAGALAKSHMI S R (Assistant Professor) — email: nagalakshmi.s.r@pes.edu\n  - Ramya sri Chaganti (Faculty Associate) — email: ramyasc@pes.edu\n  - Sowmya A M (Assistant Professor) — email: sowmyam@pes.edu\n  - Chithambarathanu M (Assistant Professor) — email: chithambaramthanu@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "IoT",
+      "total_faculty": 11
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_machine_learning",
+    "text": "Faculty members with expertise in Machine Learning at PES University CSE:\n\n  - Dr. Arti Arya (Professor/Chairperso n- AI&ML) — email: artiarya@pes.edu\n  - Dr Pooja Agarwal (Professor) — email: poojaagarwal@pes.edu\n  - Dr.M.Farida Begam (Professor) — email: farida.begam@pes.edu\n  - Dr.Manju (Professor) — email: manju.nunia@pes.edu\n  - Dr. Vishnu S Tiwari (Professor) — email: vishnustiwari@pes.edu\n  - Dr.Sudeepa Roy (Associate Professor) — email: sudeepar@pes.edu\n  - Dr.Prajwala TR (Associate Professor) — email: prajwalatr@pes.edu\n  - Dr.Vandana M L (Associate Professor) — email: Vandanamd@pes.edu\n  - Animesh Giri (Associate Professor) — email: Animeshgiri@pes.edu\n  - Dr. Chandrashekhar P Chavan (Associate Professor) — email: cpchavan@pes.edu\n  - Dr. Geetha Dayalan (Associate Professor) — email: geethadayalan@pes.edu\n  - Dr.Saritha (Associate Professor) — email: saritha.k@pes.edu\n  - Dr.Vinodha K (Associate Professor) — email: vinodhak@pes.edu\n  - Dr. Swati Pratap Jagdale (Associate Professor) — email: swatigambhire@pes.edu\n  - Dr Suja C M (Associate Professor) — email: cmsuja@pes.edu\n  - Dr.Vaishali Shinde (Associate Professor) — email: vaishali.ds@pes.edu\n  - Dr.P KOKILA (Associate Professor) — email: pkokila@pes.edu\n  - Dr.P.Kavitha (Associate Professor) — email: pkavitha@pes.edu\n  - Dr. S. Pradeep Kumar Kenny (Associate Professor)\n  - Dr. Gamini Joshi (Associate Professor) — email: joshi.gamini@gmail.com\n  - Dr. Monika (Associate Professor) — email: monika.goyal@pes.edu\n  - Shruthi L (Assistant Professor) — email: shruthil@pes.edu\n  - Prof SWETHA PATIL (Assistant Professor) — email: swetha.patil@pes.edu\n  - Nivedita Kasturi (Assistant Professor) — email: niveditak@pes.edu\n  - Lenish Pramiee (Assistant Professor) — email: lenish.pj@pes.edu\n  - Pavithra S (Assistant Professor) — email: pavithra.s@pes.edu\n  - NEHA SHARMA (Assistant Professor) — email: neha.sharma@pes.edu\n  - Divya Ebenezer Nathaniel (Assistant Professor) — email: divya.en@pes.edu\n  - UMME HAANI (Assistant Professor) — email: umme.haani@pes.edu\n  - Deepti C (Assistant Professor) — email: deeptic@pes.edu\n  - Ruby Dinakar (Assistant Professor) — email: rubydinakar@pes.edu\n  - Swathi Priya N (Assistant Professor) — email: swathipriya.n@pes.edu\n  - Sheela Devi M (Assistant Professor) — email: sheelam@pes.edu\n  - Dr.R.Nandhi Kesavan (Assistant Professor) — email: nandhi.kesavan@pes.edu\n  - Prof. Lakshmi Satya Vani N (Associate Professor) — email: sathyavaninl@pes.edu\n  - Dr. M. Shalima Sulthana (Associate Professor) — email: mssulthana@pes.edu\n  - Sowmya A M (Assistant Professor) — email: sowmyam@pes.edu\n  - Ankita Singhai (Assistant Professor) — email: ankitasinghai@pes.edu\n  - Shemeema Hashim (Assistant Professor) — email: shemeemahashim@pes.edu\n  - Prof.Vinu (Assistant Professor) — email: vinu5univ@gmail.com",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Machine Learning",
+      "total_faculty": 40
+    }
+  },
+  {
+    "chunk_id": "faculty_domain_natural_language_processing",
+    "text": "Faculty members with expertise in Natural Language Processing at PES University CSE:\n\n  - Dr. Arti Arya (Professor/Chairperso n- AI&ML) — email: artiarya@pes.edu\n  - Dr.M.Farida Begam (Professor) — email: farida.begam@pes.edu\n  - Dr. R. Prema (Associate Professor) — email: prema.r@pes.edu\n  - Dr.P KOKILA (Associate Professor) — email: pkokila@pes.edu\n  - Dr. Richa Sharma (Associate Professor) — email: richasharma@pes.edu\n  - Swathi Priya N (Assistant Professor) — email: swathipriya.n@pes.edu\n  - Shemeema Hashim (Assistant Professor) — email: shemeemahashim@pes.edu",
+    "metadata": {
+      "source": "faculty",
+      "chunk_type": "domain_summary",
+      "domain": "Natural Language Processing",
+      "total_faculty": 7
+    }
+  }
+]

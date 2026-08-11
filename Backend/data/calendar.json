@@ -1,0 +1,1466 @@
+[
+    {
+        "session": "Aug-Dec 2025",
+        "semesters": [
+            1,
+            3,
+            5,
+            7
+        ],
+        "total_weeks": 22,
+        "weeks": [
+            {
+                "week": 1,
+                "month": "Aug",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 4,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 5,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 7,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 8,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 9,
+                        "is_holiday": false
+                    }
+                },
+                "note": "4th – Commencement of Classes/Course Registration"
+            },
+            {
+                "week": 2,
+                "month": "Aug",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 14,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 15,
+                        "is_holiday": true
+                    },
+                    "Sat": {
+                        "date": 16,
+                        "is_holiday": false
+                    }
+                },
+                "note": "15th - Independence Day"
+            },
+            {
+                "week": 3,
+                "month": "Aug",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 18,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 20,
+                        "is_holiday": false,
+                        "events": [
+                            "FAM I"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 21,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 22,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 23,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 4,
+                "month": "Aug/Sept",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 25,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 26,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 27,
+                        "is_holiday": true
+                    },
+                    "Thu": {
+                        "date": 28,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 29,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 30,
+                        "is_holiday": false
+                    }
+                },
+                "note": "Dropping of Courses 27th-Ganesh Chaturthi"
+            },
+            {
+                "week": 5,
+                "month": "Sept",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 1,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 2,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 3,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 4,
+                        "is_holiday": false,
+                        "events": [
+                            "CCM I"
+                        ]
+                    },
+                    "Fri": {
+                        "date": 5,
+                        "is_holiday": true
+                    },
+                    "Sat": {
+                        "date": 6,
+                        "is_holiday": false
+                    }
+                },
+                "note": "5th – Eid Milad"
+            },
+            {
+                "week": 6,
+                "month": "Sept",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 8,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 13,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 7,
+                "month": "Sept",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 15,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 18,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 20,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 8,
+                "month": "Sept/Oct",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 22,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Tue": {
+                        "date": 23,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Wed": {
+                        "date": 24,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 25,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA1"
+                        ]
+                    },
+                    "Fri": {
+                        "date": 26,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Sat": {
+                        "date": 27,
+                        "is_holiday": false
+                    }
+                },
+                "note": "ISA 1 WEEK (Units I & II)"
+            },
+            {
+                "week": 9,
+                "month": "Oct",
+                "working_days": 3,
+                "days": {
+                    "Mon": {
+                        "date": 29,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 30,
+                        "is_holiday": false,
+                        "events": [
+                            "Wed TT"
+                        ]
+                    },
+                    "Wed": {
+                        "date": 1,
+                        "is_holiday": true
+                    },
+                    "Thu": {
+                        "date": 2,
+                        "is_holiday": true
+                    },
+                    "Fri": {
+                        "date": 3,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 4,
+                        "is_holiday": false
+                    }
+                },
+                "note": "1st-Mahanavami 2nd-Gandhi Jayanthi/ Vijayadashmi"
+            },
+            {
+                "week": 10,
+                "month": "Oct",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 7,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 8,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 11,
+                        "is_holiday": false,
+                        "events": [
+                            "PTMI"
+                        ]
+                    }
+                }
+            },
+            {
+                "week": 11,
+                "month": "Oct",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 14,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 15,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 18,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 12,
+                "month": "Oct",
+                "working_days": 2,
+                "days": {
+                    "Mon": {
+                        "date": 20,
+                        "is_holiday": true
+                    },
+                    "Tue": {
+                        "date": 21,
+                        "is_holiday": true
+                    },
+                    "Wed": {
+                        "date": 22,
+                        "is_holiday": true
+                    },
+                    "Thu": {
+                        "date": 23,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 24,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 25,
+                        "is_holiday": false
+                    }
+                },
+                "note": "20st-Naraka Chaturdashi 22nd – Balipadyami"
+            },
+            {
+                "week": 13,
+                "month": "Oct/Nov",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 27,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 28,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 29,
+                        "is_holiday": false,
+                        "events": [
+                            "FAM II"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 30,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 31,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 1,
+                        "is_holiday": true
+                    }
+                },
+                "note": "1st – Kannada Rajyotsava"
+            },
+            {
+                "week": 14,
+                "month": "Nov",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 3,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 4,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 5,
+                        "is_holiday": false,
+                        "events": [
+                            "CCM II"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 7,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 8,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 15,
+                "month": "Nov",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 14,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 15,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 16,
+                "month": "Nov",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 18,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 20,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 21,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 22,
+                        "is_holiday": false,
+                        "events": [
+                            "PTMII"
+                        ]
+                    }
+                }
+            },
+            {
+                "week": 17,
+                "month": "Nov/Dec",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 24,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA2"
+                        ]
+                    },
+                    "Tue": {
+                        "date": 25,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2"
+                        ]
+                    },
+                    "Wed": {
+                        "date": 26,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA2"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 27,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2"
+                        ]
+                    },
+                    "Fri": {
+                        "date": 28,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2",
+                            "LWD"
+                        ]
+                    },
+                    "Sat": {
+                        "date": 29,
+                        "is_holiday": false
+                    }
+                },
+                "note": "ISA 2 WEEK (Units III & I V)"
+            },
+            {
+                "week": 18,
+                "month": "Dec",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 1,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 2,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 3,
+                        "is_holiday": false,
+                        "events": [
+                            "FAD"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 4,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 5,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 6,
+                        "is_holiday": false
+                    }
+                },
+                "note": "ESA- Dec 01-30"
+            },
+            {
+                "week": 19,
+                "month": "Dec",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 8,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 13,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 20,
+                "month": "Dec",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 15,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 18,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 20,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 21,
+                "month": "Dec",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 22,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 23,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 24,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 25,
+                        "is_holiday": true
+                    },
+                    "Fri": {
+                        "date": 26,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 27,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 22,
+                "month": "Dec",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 29,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 30,
+                        "is_holiday": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "session": "Jan-May 2026",
+        "semesters": [
+            2,
+            4,
+            6,
+            8
+        ],
+        "total_weeks": 21,
+        "weeks": [
+            {
+                "week": 1,
+                "month": "Jan",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 5,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 7,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 8,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 10,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 2,
+                "month": "Jan",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 14,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 15,
+                        "is_holiday": true
+                    },
+                    "Fri": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 17,
+                        "is_holiday": false
+                    }
+                },
+                "note": "15th- Makara Sankranti"
+            },
+            {
+                "week": 3,
+                "month": "Jan",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 20,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 21,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 22,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 23,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 24,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 4,
+                "month": "Jan",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 26,
+                        "is_holiday": true
+                    },
+                    "Tue": {
+                        "date": 27,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 28,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 29,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 30,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 31,
+                        "is_holiday": false
+                    }
+                },
+                "note": "26th- Republic Day"
+            },
+            {
+                "week": 5,
+                "month": "Feb",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 2,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 3,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 4,
+                        "is_holiday": false,
+                        "events": [
+                            "CCM I"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 5,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 7,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 6,
+                "month": "Feb",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 14,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 7,
+                "month": "Feb",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 18,
+                        "is_holiday": false,
+                        "events": [
+                            "FAM I"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 20,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 21,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 8,
+                "month": "Feb",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 23,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 24,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 25,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 26,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 27,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 28,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 9,
+                "month": "March",
+                "working_days": 6,
+                "days": {
+                    "Mon": {
+                        "date": 2,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Tue": {
+                        "date": 3,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Wed": {
+                        "date": 4,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 5,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Fri": {
+                        "date": 6,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    },
+                    "Sat": {
+                        "date": 7,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 1"
+                        ]
+                    }
+                },
+                "note": "ISA1 WEEK (Units I & II)"
+            },
+            {
+                "week": 10,
+                "month": "March",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 14,
+                        "is_holiday": false,
+                        "events": [
+                            "PTM I"
+                        ]
+                    }
+                }
+            },
+            {
+                "week": 11,
+                "month": "March",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 18,
+                        "is_holiday": false,
+                        "events": [
+                            "Thurs",
+                            "TT"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 19,
+                        "is_holiday": true
+                    },
+                    "Fri": {
+                        "date": 20,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 21,
+                        "is_holiday": true
+                    }
+                },
+                "note": "19thChandramanaUgadi 21st Qutub –e-Ramzan"
+            },
+            {
+                "week": 12,
+                "month": "March",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 23,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 24,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 25,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 26,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 27,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 28,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 13,
+                "month": "Mar/April",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 30,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 31,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 1,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 2,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 3,
+                        "is_holiday": true
+                    },
+                    "Sat": {
+                        "date": 4,
+                        "is_holiday": false
+                    }
+                },
+                "note": "3rd- Good Friday"
+            },
+            {
+                "week": 14,
+                "month": "April",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 7,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 8,
+                        "is_holiday": false,
+                        "events": [
+                            "CCM II"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 9,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 10,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 11,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 15,
+                "month": "April",
+                "working_days": 4,
+                "days": {
+                    "Mon": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 14,
+                        "is_holiday": true
+                    },
+                    "Wed": {
+                        "date": 15,
+                        "is_holiday": false,
+                        "events": [
+                            "FAM II"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 16,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 17,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 18,
+                        "is_holiday": false
+                    }
+                },
+                "note": "14th Ambedkar Jayanthi"
+            },
+            {
+                "week": 16,
+                "month": "April",
+                "working_days": 6,
+                "days": {
+                    "Mon": {
+                        "date": 20,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 21,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 22,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 23,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 24,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 25,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2",
+                            "PTM II"
+                        ]
+                    }
+                }
+            },
+            {
+                "week": 17,
+                "month": "April/May",
+                "working_days": 5,
+                "days": {
+                    "Mon": {
+                        "date": 27,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2"
+                        ]
+                    },
+                    "Tue": {
+                        "date": 28,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2"
+                        ]
+                    },
+                    "Wed": {
+                        "date": 29,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2"
+                        ]
+                    },
+                    "Thu": {
+                        "date": 30,
+                        "is_holiday": false,
+                        "events": [
+                            "ISA 2"
+                        ]
+                    },
+                    "Fri": {
+                        "date": 1,
+                        "is_holiday": true
+                    }
+                },
+                "note": "ISA2 WEEK (Units III & IV) 1st- May Day"
+            },
+            {
+                "week": 18,
+                "month": "May",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 4,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 5,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 6,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 7,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 8,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 9,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 19,
+                "month": "May",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 11,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 12,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 13,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 14,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 15,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 16,
+                        "is_holiday": false
+                    }
+                },
+                "note": "ESA: May 04 -30"
+            },
+            {
+                "week": 20,
+                "month": "May",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 18,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 19,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 20,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 21,
+                        "is_holiday": false
+                    },
+                    "Fri": {
+                        "date": 22,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 23,
+                        "is_holiday": false
+                    }
+                }
+            },
+            {
+                "week": 21,
+                "month": "May",
+                "working_days": null,
+                "days": {
+                    "Mon": {
+                        "date": 25,
+                        "is_holiday": false
+                    },
+                    "Tue": {
+                        "date": 26,
+                        "is_holiday": false
+                    },
+                    "Wed": {
+                        "date": 27,
+                        "is_holiday": false
+                    },
+                    "Thu": {
+                        "date": 28,
+                        "is_holiday": true
+                    },
+                    "Fri": {
+                        "date": 29,
+                        "is_holiday": false
+                    },
+                    "Sat": {
+                        "date": 30,
+                        "is_holiday": false
+                    }
+                },
+                "note": "28th Bakrid"
+            }
+        ]
+    }
+]
