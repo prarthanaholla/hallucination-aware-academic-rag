@@ -10,6 +10,12 @@
 #   python -m tests.debug_verification
 # ================================================================
 
+import sys
+
+if sys.stdout.encoding.lower() != "utf-8":
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 from api.retriever import Retriever
 from api.groq_generator import GroqGenerator
 from api.sentence_verifier import SentenceVerifier
