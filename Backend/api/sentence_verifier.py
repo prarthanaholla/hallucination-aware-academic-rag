@@ -11,7 +11,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 nltk.download("punkt",     quiet=True)
 nltk.download("punkt_tab", quiet=True)
 
-NLI_MODEL          = "cross-encoder/nli-deberta-v3-small"
+NLI_MODEL          = "cross-encoder/nli-deberta-v3-base"
 VERIFIED_THRESHOLD = 0.7
 PARTIAL_THRESHOLD  = 0.4
 VERIFIED           = "VERIFIED"
@@ -62,7 +62,7 @@ def collapse_list_answer(text: str) -> list[str]:
 class SentenceVerifier:
 
     def __init__(self):
-        print("Loading NLI model (first run downloads ~180MB)...")
+        print("Loading NLI model (first run downloads ~370MB)...")
         self.tokenizer = AutoTokenizer.from_pretrained(NLI_MODEL)
         self.model     = AutoModelForSequenceClassification.from_pretrained(NLI_MODEL)
         self.model.eval()
@@ -145,29 +145,60 @@ class SentenceVerifier:
         best_chunk      = None
         best_scores     = None
 
+        # Track per-chunk NLI scores too, so the overlap rescue below
+        # can check contradiction against the SAME chunk it's scoring
+        # overlap for, instead of against NLI's (possibly wrong) top pick.
+        per_chunk_scores = []
+
         for chunk in chunks:
             scores = self.nli_score(chunk["text"], sentence)
+            per_chunk_scores.append((chunk, scores))
             if scores["entailment"] > best_entailment:
                 best_entailment = scores["entailment"]
                 best_chunk      = chunk
                 best_scores     = scores
 
-        # --- NEW: lexical overlap rescue ---
-        # If NLI is unsure (not VERIFIED) but NOT contradicting, AND
-        # the hypothesis is near-verbatim to the premise, trust the
-        # surface match over NLI's unreliable probability.
-        if best_chunk and best_entailment < VERIFIED_THRESHOLD:
-            overlap = self.lexical_overlap(sentence, best_chunk["text"])
-            contradiction = best_scores["contradiction"] if best_scores else 1.0
-            if overlap >= 0.85 and contradiction < 0.15:
+        # --- Lexical overlap rescue (fixed) ---
+        # BUG this replaces: the old version only checked overlap against
+        # best_chunk — whichever chunk NLI ranked highest for entailment.
+        # When NLI's entailment scores are all near-zero noise (which
+        # happens on paraphrases like "FAM 2" vs "Faculty Advisor Meeting
+        # 2"), NLI's "top pick" can be a completely different, wrong
+        # chunk (e.g. FAM *1* instead of FAM *2*) — so the rescue was
+        # checking overlap against the wrong evidence and could never
+        # fire correctly, regardless of the 0.85 threshold.
+        #
+        # Fix: compute lexical overlap against EVERY retrieved chunk and
+        # let the best overlap match win on its own — independent of
+        # which chunk NLI happened to rank first. This decouples "which
+        # chunk actually supports this claim" (overlap — reliable here)
+        # from "does NLI think it's entailed" (unreliable when scores
+        # are all noise).
+        if best_entailment < VERIFIED_THRESHOLD:
+            best_overlap        = 0.0
+            best_overlap_chunk  = None
+            best_overlap_scores = None
+
+            for chunk, scores in per_chunk_scores:
+                overlap = self.lexical_overlap(sentence, chunk["text"])
+                if overlap > best_overlap:
+                    best_overlap        = overlap
+                    best_overlap_chunk  = chunk
+                    best_overlap_scores = scores
+
+            contradiction = best_overlap_scores["contradiction"] if best_overlap_scores else 1.0
+            if best_overlap_chunk and best_overlap >= 0.85 and contradiction < 0.15:
                 return {
                     "sentence": sentence, "label": VERIFIED,
-                    "confidence": round(overlap, 4),
-                    "evidence": best_chunk["text"][:300],
-                    "source": best_chunk["metadata"],
+                    "confidence": round(best_overlap, 4),
+                    "evidence": best_overlap_chunk["text"][:300],
+                    "source": best_overlap_chunk["metadata"],
                     "nli_scores": {
-                        **(best_scores or {}),
-                        "note": f"lexical-overlap rescue ({overlap:.2f}), NLI was unreliable"
+                        **(best_overlap_scores or {}),
+                        "note": (
+                            f"lexical-overlap rescue ({best_overlap:.2f}), "
+                            f"checked against all {len(chunks)} chunks independently of NLI's ranking"
+                        )
                     },
                 }
 

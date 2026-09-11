@@ -3,7 +3,7 @@
     "query": "When is ISA 1 for odd semesters?",
     "category": "calendar",
     "is_adversarial": false,
-    "answer": "ISA 1 for odd semesters (Semesters 1, 3, 5, 7) is scheduled on: 22 Sept 2025, 23 Sept 2025, 24 Sept 2025, 25 Sept 2025, 26 Sept 2025.",
+    "answer": "ISA 1 for the odd semesters (Semesters 1, 3, 5, 7) is scheduled on:\n\n- 22 September 2025  \n- 23 September 2025  \n- 24 September 2025  \n- 25 September 2025  \n- 26 September 2025.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -11,27 +11,27 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 4.8
+    "elapsed_s": 3.0
   },
   {
     "query": "When is ISA 2 for even semesters?",
     "category": "calendar",
     "is_adversarial": false,
-    "answer": "ISA 2 for Semesters [2, 4, 6, 8] (Jan-May 2026) is scheduled on: 25 April 2026, 27 April 2026, 28 April 2026, 29 April 2026, 30 April 2026.",
-    "verdict": "TRUSTWORTHY",
-    "overall_score": 1.0,
+    "answer": "ISA 2 for the even semesters (2, 4, 6, 8) is scheduled on **25 April 2026, 27 April 2026, 28 April 2026, 29 April 2026, and 30 April 2026**.",
+    "verdict": "MIXED",
+    "overall_score": 0.5,
     "verified_count": 1,
     "partial_count": 0,
-    "hallucinated_count": 0,
+    "hallucinated_count": 1,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 3.12
+    "elapsed_s": 3.75
   },
   {
     "query": "What are all the holidays for odd semester 2025?",
     "category": "calendar",
     "is_adversarial": false,
-    "answer": "The holidays for odd semesters (1, 3, 5, 7) during Aug-Dec 2025 are: \n1. 15 Aug 2025 (Independence Day)\n2. 27 Aug 2025 (Ganesh Chaturthi)\n3. 5 Sept 2025 (Eid Milad)\n4. 1 Oct 2025 (Mahanavami 2nd-Gandhi Jayanthi/ Vijayadashmi)\n5. 2 Oct 2025 (Gandhi Jayanthi/ Vijayadashmi)\n6. 20 Oct 2025 (Naraka Chaturdashi 22nd – Balipadyami)\n7. 21 Oct 2025\n8. 22 Oct 2025 (Balipadyami)\n9. 1 Nov 2025 (Kannada Rajyotsava)\n10. 25 Dec 2025. Total holidays: 10.",
+    "answer": "The holidays for odd semesters (1, 3, 5, 7) during Aug‑Dec 2025 are:\n\n1. 15 Aug 2025 – Independence Day  \n2. 27 Aug 2025 – Ganesh Chaturthi  \n3. 5 Sept 2025 – Eid Milad  \n4. 1 Oct 2025 – Mahanavami (2nd‑Gandhi Jayanthi/Vijayadashmi)  \n5. 2 Oct 2025 – Gandhi Jayanthi/Vijayadashmi  \n6. 20 Oct 2025 – Naraka Chaturdashi (22nd – Balipadyami)  \n7. 21 Oct 2025 – (holiday)  \n8. 22 Oct 2025 – Balipadyami  \n9. 1 Nov 2025 – Kannada Rajyotsava  \n10. 25 Dec 2025 – (holiday)  \n\nThese are the ten holidays listed for odd semesters in 2025.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -39,13 +39,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 4.32
+    "elapsed_s": 5.28
   },
   {
     "query": "When do classes commence for semesters 1, 3, 5, 7?",
     "category": "calendar",
     "is_adversarial": false,
-    "answer": "Classes for semesters 1, 3, 5, 7 commence on August 4, 2025.",
+    "answer": "Classes commence on 4 August 2025 for semesters 1, 3, 5, and 7.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -53,13 +53,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 2.55
+    "elapsed_s": 3.59
   },
   {
     "query": "When is the FAM 2 (Faculty Advisor Meeting 2) for even semesters?",
     "category": "calendar",
     "is_adversarial": false,
-    "answer": "The Faculty Advisor Meeting 2 for Semesters [2, 4, 6, 8] (Jan-May 2026) is scheduled on 15 April 2026.",
+    "answer": "Faculty Advisor Meeting 2 for the even semesters (2, 4, 6, 8) is scheduled on **15 April 2026**.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -67,7 +67,7 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 2.65
+    "elapsed_s": 1.87
   },
   {
     "query": "When will results be announced for even semesters (Jan-May 2026 session)?",
@@ -81,13 +81,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": false,
-    "elapsed_s": 1.52
+    "elapsed_s": 0.83
   },
   {
     "query": "What is the email of Ankita Singhai?",
     "category": "faculty",
     "is_adversarial": false,
-    "answer": "The email address of Ankita Singhai is ankitasinghai@pes.edu.",
+    "answer": "Ankita Singhai’s email address is **ankitasinghai@pes.edu**.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -95,13 +95,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 1.11
+    "elapsed_s": 2.25
   },
   {
     "query": "What is Dr. Sandesh BJ's designation and email?",
     "category": "faculty",
     "is_adversarial": false,
-    "answer": "Dr. Sandesh BJ is the Chairperson in the CSE department at PES University, and their email address is sandesh_bj@pes.edu.",
+    "answer": "Dr. Sandesh BJ is the Chairperson of the CSE department, and his email address is sandesh_bj@pes.edu.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 2,
@@ -109,13 +109,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 3.98
+    "elapsed_s": 5.74
   },
   {
     "query": "Which faculty specialize in cyber security?",
     "category": "faculty",
     "is_adversarial": false,
-    "answer": "The faculty members with expertise in Cyber Security at PES University CSE are:\n\n1. Dr. Gokul Kannan Sadasivam (Professor) \n2. Animesh Giri (Associate Professor) \n3. Dr. Geetha Dayalan (Associate Professor) \n4. Dr.Vinodha K (Associate Professor) \n5. Dr.Gauri Sameer Rapate (Associate Professor) \n6. Dr Suja C M (Associate Professor) \n7. Shruthi L (Assistant Professor) \n8. Kundhavai K R (Assistant Professor) \n9. Deepti C (Assistant Professor) \n10. Sheela Devi M (Assistant Professor) \n11. Ramya sri Chaganti (Faculty Associate) \n12. Sowmya A M (Assistant Professor) \n13. Vanitha A N (Assistant Professor) \n14. Thangamani.R (Assistant Professor)",
+    "answer": "The faculty members with expertise in **Cyber Security** at PES University – CSE are:\n\n- Dr. Gokul Kannan Sadasivam (Professor) – gokul@pes.edu  \n- Animesh Giri (Associate Professor) – Animeshgiri@pes.edu  \n- Dr. Geetha Dayalan (Associate Professor) – geethadayalan@pes.edu  \n- Dr. Vinodha K (Associate Professor) – vinodhak@pes.edu  \n- Dr. Gauri Sameer Rapate (Associate Professor) – gauri.rapate@pes.edu  \n- Dr. Suja C M (Associate Professor) – cmsuja@pes.edu  \n- Shruthi L (Assistant Professor) – shruthil@pes.edu  \n- Kundhavai K R (Assistant Professor) – kundhavaikr@pes.edu  \n- Deepti C (Assistant Professor) – deeptic@pes.edu  \n- Sheela Devi M (Assistant Professor) – sheelam@pes.edu  \n- Ramya Sri Chaganti (Faculty Associate) – ramyasc@pes.edu  \n- Sowmya A M (Assistant Professor) – sowmyam@pes.edu  \n- Vanitha A N (Assistant Professor) – vanithaan@pes.edu  \n- Thangamani R (Assistant Professor) – thangamanir@pes.edu",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -123,13 +123,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 6.19
+    "elapsed_s": 1.95
   },
   {
     "query": "Who works on machine learning at PES CSE?",
     "category": "faculty",
     "is_adversarial": false,
-    "answer": "The following faculty members work on Machine Learning at PES University CSE:\n\n1. Dr. Arti Arya (Professor/Chairperson - AI&ML)\n2. Dr. Pooja Agarwal (Professor)\n3. Dr. M. Farida Begam (Professor)\n4. Dr. Manju (Professor)\n5. Dr. Vishnu S Tiwari (Professor)\n6. Dr. Sudeepa Roy (Associate Professor)\n7. Dr. Prajwala TR (Associate Professor)\n8. Dr. Vandana M L (Associate Professor)\n9. Animesh Giri (Associate Professor)\n10. Dr. Chandrashekhar P Chavan (Associate Professor)\n11. Dr. Geetha Dayalan (Associate Professor)\n12. Dr. Saritha (Associate Professor)\n13. Dr. Vinodha K (Associate Professor)\n14. Dr. Swati Pratap Jagdale (Associate Professor)\n15. Dr. Suja C M (Associate Professor)\n16. Dr. Vaishali Shinde (Associate Professor)\n17. Dr. P KOKILA (Associate Professor)\n18. Dr. P. Kavitha (Associate Professor)\n19. Dr. S. Pradeep Kumar Kenny (Associate Professor)\n20. Dr. Gamini Joshi (Associate Professor)\n21. Dr. Monika (Associate Professor)\n22. Shruthi L (Assistant Professor)\n23. Prof. Swetha Patil (Assistant Professor)\n24. Nivedita Kasturi (Assistant Professor)\n25. Lenish Pramiee (Assistant Professor)\n26. Pavithra S (Assistant Professor)\n27. NEHA SHARMA (Assistant Professor)\n28. Divya Ebenezer Nathaniel (Assistant Professor)\n29. UMME HAANI (Assistant Professor)\n30. Deepti C (Assistant Professor)\n31. Ruby Dinakar (Assistant Professor)\n32. Swathi Priya N (Assistant Professor)\n33. Sheela Devi M (Assistant Professor)\n34. Dr. R. Nandhi Kesavan (Assistant Professor)\n35. Prof. Lakshmi Satya Vani N (Associate Professor)\n36. Dr. M. Shalima Sulthana (Associate Professor)",
+    "answer": "Faculty members who work on Machine Learning in the PES University CSE department are:\n\n- Dr. Arti Arya (Professor/Chairperson – AI & ML) – artiarya@pes.edu  \n- Dr. Pooja Agarwal (Professor) – poojaagarwal@pes.edu  \n- Dr. M. Farida Begam (Professor) – farida.begam@pes.edu  \n- Dr. Manju (Professor) – manju.nunia@pes.edu  \n- Dr. Vishnu S Tiwari (Professor) – vishnustiwari@pes.edu  \n- Dr. Sudeepa Roy (Associate Professor) – sudeepar@pes.edu  \n- Dr. Prajwala TR (Associate Professor) – prajwalatr@pes.edu  \n- Dr. Vandana M L (Associate Professor) – Vandanamd@pes.edu  \n- Animesh Giri (Associate Professor) – Animeshgiri@pes.edu  \n- Dr. Chandrashekhar P Chavan (Associate Professor) – cpchavan@pes.edu  \n- Dr. Geetha Dayalan (Associate Professor) – geethadayalan@pes.edu  \n- Dr. Saritha (Associate Professor) – saritha.k@pes.edu  \n- Dr. Vinodha K (Associate Professor) – vinodhak@pes.edu  \n- Dr. Swati Pratap Jagdale (Associate Professor) – swatigambhire@pes.edu  \n- Dr. Suja C M (Associate Professor) – cmsuja@pes.edu  \n- Dr. Vaishali Shinde (Associate Professor) – vaishali.ds@pes.edu  \n- Dr. P Kokila (Associate Professor) – pkokila@pes.edu  \n- Dr. P. Kavitha (Associate Professor) – pkavitha@pes.edu  \n- Dr. S. Pradeep Kumar Kenny (Associate Professor) – (email not listed)  \n- Dr. Gamini Joshi (Associate Professor) – joshi.gamini@gmail.com  \n- Dr. Monika (Associate Professor) – monika.goyal@pes.edu  \n- Shruthi L (Assistant Professor) – shruthil@pes.edu  \n- Prof. Swetha Patil (Assistant Professor) – swetha.patil@pes.edu  \n- Nivedita Kasturi (Assistant Professor) – niveditak@pes.edu  \n- Lenish Pramiee (Assistant Professor) – lenish.pj@pes.edu  \n- Pavithra S (Assistant Professor) – pavithra.s@pes.edu  \n- Neha Sharma (Assistant Professor) – neha.sharma@pes.edu  \n- Divya Ebenezer Nathaniel (Assistant Professor) – divya.en@pes.edu  \n- Umme Haani (Assistant Professor) – umme.haani@pes.edu  \n- Deepti C (Assistant Professor) – deeptic@pes.edu  \n- Ruby Dinakar (Assistant Professor) – rubydinakar@pes.edu  \n- Swathi Priya N (Assistant Professor) – swathipriya.n@pes.edu  \n- Sheela Devi M (Assistant Professor) – sheelam@pes.edu  \n- Dr. R. Nandhi Kesavan (Assistant Professor) – nandhi.kesavan@pes.edu  \n- Prof. Lakshmi Satya Vani N (Associate Professor) – sathyavaninl@pes.edu  \n- Dr. M. Shalima Sulthana (Associate Professor) – mssulthana@pes.edu  \n- Sowmya A M (Assistant Professor) – sowmyam@pes.edu  \n- Ankita Singhai (Assistant Professor) – ankitasinghai@pes.edu  \n- Shemeema Hashim (Assistant Professor) – shemeemahashim@pes.edu  \n- Prof. Vinu (Assistant Professor) – vinu5univ@gmail.com",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -137,27 +137,27 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": null,
-    "elapsed_s": 9.23
+    "elapsed_s": 3.28
   },
   {
     "query": "What are Dr. Arti Arya's areas of expertise?",
     "category": "faculty",
     "is_adversarial": false,
-    "answer": "Dr. Arti Arya's areas of expertise include: Artificial Intelligence/Gen AI/Explainable AI, Natural Language Processing, Computer Vision, GenAI, Agentic AI, LLM, ML/DL, BDA, Parallel computing, Algorithms (Optimization Techniques), GNNs, Knowledge Graphs and Ontologies.",
+    "answer": "Dr. Arti Arya’s areas of expertise include:\n\n- Artificial Intelligence / Gen AI / Explainable AI  \n- Natural Language Processing  \n- Computer Vision  \n- Agentic AI  \n- Large Language Models (LLM)  \n- Machine Learning / Deep Learning (ML/DL)  \n- Big Data Analytics (BDA)  \n- Parallel Computing  \n- Algorithms (Optimization Techniques)  \n- Graph Neural Networks (GNNs)  \n- Knowledge Graphs and Ontologies.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
-    "verified_count": 2,
+    "verified_count": 1,
     "partial_count": 0,
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 5.07
+    "elapsed_s": 6.01
   },
   {
     "query": "How many credits is the Python for Computational Problem Solving course?",
     "category": "courses",
     "is_adversarial": false,
-    "answer": "The Python For Computational Problem Solving (UE25CS151A) course has a total of 5 credits.",
+    "answer": "The Python for Computational Problem Solving (UE25CS151A) course carries a total of **5 credits**.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -165,13 +165,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 2.82
+    "elapsed_s": 4.42
   },
   {
     "query": "What semester is the Python course (UE25CS151A) offered in?",
     "category": "courses",
     "is_adversarial": false,
-    "answer": "The Python For Computational Problem Solving course (UE25CS151A) is offered in Semester 1.",
+    "answer": "The Python For Computational Problem Solving course (UE25CS151A) is offered in **Semester 1**.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -179,13 +179,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 6.4
+    "elapsed_s": 18.28
   },
   {
     "query": "What are the course objectives for the Python course?",
     "category": "courses",
     "is_adversarial": false,
-    "answer": "The objectives of Python For Computational Problem Solving (UE25CS151A) are: \n1. Apply the process of structuring the data using lists, tuples, sets and dictionaries. \n2. Utilize the use of built-in functions to navigate the file system. \n3. Explore various paradigms of programming and implement the Object-Oriented Programming concepts in Python.",
+    "answer": "The objectives of **Python For Computational Problem Solving (UE25CS151A)** are:\n\n1. Apply the process of structuring data using lists, tuples, sets, and dictionaries.  \n2. Utilize built‑in functions to navigate the file system.  \n3. Explore various programming paradigms and implement Object‑Oriented Programming concepts in Python.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -193,41 +193,41 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 8.16
+    "elapsed_s": 7.14
   },
   {
     "query": "List the electives available in 6th semester",
     "category": "courses",
     "is_adversarial": false,
-    "answer": "In Semester 6, the following electives are available:\n\n1. Elective courses:\n   - Automotive Cybersecurity (UE23CS342BB11)\n   - SOC& Threat Intelligence (UE23CSBB12)\n\n2. Elective-1 courses:\n   - Topic in Wireless Network and 5G Networks (UE23CS342AA7)\n\n3. Elective-3 courses:\n   - Supply Chain Management for Engineers (UE23CS342BA1)\n   - Algorithms for Information Retrieval (UE23CS342BA2)\n   - AI for Sustainable development (UE23CS342BA3)\n   - Generative AI and its Applications (UE23CS342BA4)\n   - Block chain (UE23CS342BA5)\n   - Digital Forensics and Incident Response (UE23CS342BA6)\n   - Cloud Security (UE23CS342BA8)\n   - Speech and Text Processing (UE23CS343BA10)\n\n4. Elective-4 courses:\n   - Heterogenous Parallelism (UE23CS343BB1)\n   - Topics in Deep Learning (UE23CS343BB2)\n   - Database Technologies (UE23CS343BB3)\n   - Machine Learning on Graphs (UE23CS343BB4)\n   - Embedded system programming with micro python (UE23CS343BB5)\n   - Information Security (UE23CS343BB6)\n   - Mobile and Autonomous Robot (UE23CS343BB7)\n   - Security for Internet of Things (UE23CS343BB8)\n   - Applied ML in IoT with TinyML (UE23CS343BB9)\n   - Video Processing and understanding (UE23CS343BB10)",
+    "answer": "**Electives offered in Semester 6 (B.Tech CSE)**  \n\n*Elective (general)*\n- Automotive Cybersecurity (UE23CS342BB11)  \n- SOC & Threat Intelligence (UE23CSBB12)  \n\n*Elective‑1*\n- Topic in Wireless Network and 5G Networks (UE23CS342AA7)  \n\n*Elective‑3*\n- Supply Chain Management for Engineers (UE23CS342BA1)  \n- Algorithms for Information Retrieval (UE23CS342BA2)  \n- AI for Sustainable Development (UE23CS342BA3)  \n- Generative AI and its Applications (UE23CS342BA4)  \n- Block chain (UE23CS342BA5)  \n- Digital Forensics and Incident Response (UE23CS342BA6)  \n- Cloud Security (UE23CS342BA8)  \n- Speech and Text Processing (UE23CS343BA10)  \n\n*Elective‑4*\n- Heterogenous Parallelism (UE23CS343BB1)  \n- Topics in Deep Learning (UE23CS343BB2)  \n- Database Technologies (UE23CS343BB3)  \n- Machine Learning on Graphs (UE23CS343BB4)  \n- Embedded System Programming with Micro‑Python (UE23CS343BB5)  \n- Information Security (UE23CS343BB6)  \n- Mobile and Autonomous Robot (UE23CS343BB7)  \n- Security for Internet of Things (UE23CS343BB8)  \n- Applied ML in IoT with TinyML (UE23CS343BB9)  \n- Video Processing and Understanding (UE23CS343BB10)",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
-    "verified_count": 1,
+    "verified_count": 7,
     "partial_count": 0,
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 17.64
+    "elapsed_s": 40.08
   },
   {
     "query": "List the electives available in 5th semester",
     "category": "generalization_retriever_filter",
     "is_adversarial": false,
-    "answer": "In Semester 5, the available electives are:\n\nElective-1:\n- Advanced Algorithms (UE23CS342AA1)\n- Data Analytics (UE23CS342AA2)\n- Internet of Things (UE23CS342AA3)\n- Applied Cryptography (UE23CS342AA4)\n- Virtual and Augmented Reality (UE23CS342AA5)\n- Human Computer Interaction (UE23CS342AA6)\n- Bio-Inspired Computing (UE23CS343AA8)\n- Quantum Computing (UE23CS343AA10)\n\nElective-2:\n- Image Processing (UE23CS343AB1)\n- Big Data (UE23CS343AB2)\n- Graph Theory and its Applications (UE23CS343AB3)\n- Real Time Operating System (UE23CS343AB4)\n- Advanced Computer Networks (UE23CS343AB5)\n- Computer Network Security (UE23CS343AB6)\n- ROS for Autonomous Systems (UE23CS343AB7)\n- Enterprise Business Systems for Engineers (UE23CS342AB8)",
+    "answer": "**Electives offered in Semester 5 (B.Tech CSE)**  \n\n**Elective‑1**\n- Advanced Algorithms (UE23CS342AA1)  \n- Data Analytics (UE23CS342AA2)  \n- Internet of Things (UE23CS342AA3)  \n- Applied Cryptography (UE23CS342AA4)  \n- Virtual and Augmented Reality (UE23CS342AA5)  \n- Human Computer Interaction (UE23CS342AA6)  \n- Bio‑Inspired Computing (UE23CS343AA8)  \n- Quantum Computing (UE23CS343AA10)  \n\n**Elective‑2**\n- Image Processing (UE23CS343AB1)  \n- Big Data (UE23CS343AB2)  \n- Graph Theory and its Applications (UE23CS343AB3)  \n- Real‑Time Operating System (UE23CS343AB4)  \n- Advanced Computer Networks (UE23CS343AB5)  \n- Computer Network Security (UE23CS343AB6)  \n- ROS for Autonomous Systems (UE23CS343AB7)  \n- Enterprise Business Systems for Engineers (UE23CS342AB8)",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
-    "verified_count": 1,
+    "verified_count": 3,
     "partial_count": 0,
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 13.26
+    "elapsed_s": 16.63
   },
   {
     "query": "What is the email of Dr. Vinodha K?",
     "category": "generalization_exact_match",
     "is_adversarial": false,
-    "answer": "The email address of Dr. Vinodha K is vinodhak@pes.edu.",
+    "answer": "Dr. Vinodha K’s email address is **vinodhak@pes.edu**.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
@@ -235,13 +235,13 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 1.27
+    "elapsed_s": 0.92
   },
   {
     "query": "What is Dr. Richa Sharma's designation and email?",
     "category": "generalization_clause_split",
     "is_adversarial": false,
-    "answer": "Dr. Richa Sharma is an Associate Professor in the CSE department at PES University, and her email address is richasharma@pes.edu.",
+    "answer": "Dr. Richa Sharma is an **Associate Professor** in the CSE department, and her email address is **richasharma@pes.edu**.",
     "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 2,
@@ -249,7 +249,7 @@
     "hallucinated_count": 0,
     "retrieval_hit": true,
     "keyword_hit": true,
-    "elapsed_s": 3.62
+    "elapsed_s": 2.62
   },
   {
     "query": "Who teaches Quantum Computing for Beginners?",
@@ -263,7 +263,7 @@
     "hallucinated_count": 0,
     "retrieval_hit": null,
     "keyword_hit": null,
-    "elapsed_s": 1.25
+    "elapsed_s": 7.52
   },
   {
     "query": "What is the email of Professor Rajesh Kumar Sharma, Dean of Astrophysics?",
@@ -277,7 +277,7 @@
     "hallucinated_count": 0,
     "retrieval_hit": null,
     "keyword_hit": null,
-    "elapsed_s": 1.26
+    "elapsed_s": 5.22
   },
   {
     "query": "When is ISA 3 scheduled?",
@@ -291,21 +291,21 @@
     "hallucinated_count": 0,
     "retrieval_hit": null,
     "keyword_hit": null,
-    "elapsed_s": 1.72
+    "elapsed_s": 5.94
   },
   {
     "query": "How many credits is the Blockchain Fundamentals course worth?",
     "category": "adversarial",
     "is_adversarial": true,
-    "answer": "I don't have that information in my knowledge base. The available information is about a \"Block chain\" course (UE23CS342BA5) which is worth 4 credits.",
-    "verdict": "MIXED",
+    "answer": "The Blockchain Fundamentals course is worth **4 credits**.",
+    "verdict": "TRUSTWORTHY",
     "overall_score": 1.0,
     "verified_count": 1,
     "partial_count": 0,
     "hallucinated_count": 0,
     "retrieval_hit": null,
     "keyword_hit": null,
-    "elapsed_s": 2.87
+    "elapsed_s": 5.75
   },
   {
     "query": "What is the email of the faculty member who teaches Astrophysics?",
@@ -319,6 +319,6 @@
     "hallucinated_count": 0,
     "retrieval_hit": null,
     "keyword_hit": null,
-    "elapsed_s": 1.13
+    "elapsed_s": 3.97
   }
 ]

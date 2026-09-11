@@ -15,11 +15,11 @@ load_dotenv()
 # ── Config ───────────────────────────────────────────────────────
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
-# Best free models on Groq (pick one):
-#   llama-3.3-70b-versatile   ← best quality
-#   llama-3.1-8b-instant      ← fastest
-#   mixtral-8x7b-32768        ← good for long context
-MODEL     = "llama-3.3-70b-versatile"
+# llama-3.3-70b-versatile was removed from Groq's catalog (confirmed via
+# GET /openai/v1/models — no longer listed for this key as of 2026-08-11).
+# openai/gpt-oss-120b is the current largest general-purpose chat model
+# available on the account; swap here if Groq's lineup changes again.
+MODEL     = "openai/gpt-oss-120b"
 MAX_TOKENS = 1024
 
 SYSTEM_PROMPT = """You are a precise academic assistant for PES University's 
@@ -76,7 +76,12 @@ class GroqGenerator:
         response = self.client.chat.completions.create(
             model      = MODEL,
             max_tokens = MAX_TOKENS,
-            temperature= 0.1,          # low temp = more factual
+            temperature= 0,            # 0 = as deterministic as Groq allows,
+                                        # needed so eval_harness.py verdicts
+                                        # are reproducible run-to-run
+            seed       = 42,           # Groq supports a seed hint on top of
+                                        # temperature=0 for extra reproducibility;
+                                        # harmless if a given model ignores it
             messages   = [
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user",   "content": prompt},
@@ -91,6 +96,8 @@ class GroqGenerator:
             "retrieved_chunks":   chunks,
             "context":            context,
             "model":              MODEL,
+            "temperature":        0,
+            "seed":               42,
             "prompt_tokens":      response.usage.prompt_tokens,
             "completion_tokens":  response.usage.completion_tokens,
         }

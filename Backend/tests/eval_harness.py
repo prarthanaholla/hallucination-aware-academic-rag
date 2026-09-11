@@ -17,6 +17,12 @@
 #     or for digging into specific failures)
 # ================================================================
 
+import sys
+
+if sys.stdout.encoding.lower() != "utf-8":
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 import json
 import time
 from api.retriever import Retriever
